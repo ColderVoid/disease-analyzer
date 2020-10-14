@@ -1,4 +1,22 @@
+"""
+
+How to print progress bar:
+
+# A List of Items
+    items = list(range(0, 57))
+    l = len(items)
+
+    # Initial call to print 0% progress
+    printProgressBar(0, l, prefix='Progress:', suffix='Complete', length=50)
+
+And remember not to remove 'def printProgressBar'!
+
+"""
+
 import time
+import urllib
+import urllib.request
+import json
 
 
 # Print iterations progress
@@ -25,16 +43,24 @@ def printProgressBar(iteration, total, prefix='', suffix='', decimals=1, length=
 
 
 if __name__ == "__main__":
-    # ini = webdriver.Firefox()
 
-    # A List of Items
-    items = list(range(0, 57))
-    l = len(items)
+    log = []
+    url = "https://services1.arcgis.com/YmCK8KfESHdxUQgm/arcgis/rest/services/KoronawirusPolska_czas_widok" \
+          "/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects" \
+          "&outFields=*&orderByFields=Aktualizacja%20asc&resultOffset=0&resultRecordCount=32000&resultType=standard" \
+          "&cacheHint=true "
 
-    # Initial call to print 0% progress
-    printProgressBar(0, l, prefix='Progress:', suffix='Complete', length=50)
-    for i, item in enumerate(items):
-        # Do stuff...
-        time.sleep(0.1)
-        # Update Progress Bar
-        printProgressBar(i + 1, l, prefix='Progress:', suffix='Complete', length=50)
+    with urllib.request.urlopen(url) as worker:
+        worker = worker.read()
+        # I'm guessing this would output the html source code ?
+        json_code = json.loads(worker)
+        print(worker)
+
+        print("--------")
+        print(json_code["features"])
+
+        worker2 = json_code["features"]
+
+        for row in worker2:
+            print("row attrib " + str(row))
+            # print(worker2[row])
