@@ -12,8 +12,10 @@ How to print progress bar:
 And remember not to remove 'def printProgressBar'!
 
 """
-
+# import section
+from datetime import datetime
 import time
+import sys
 import urllib
 import urllib.request
 import json
@@ -42,25 +44,69 @@ def printProgressBar(iteration, total, prefix='', suffix='', decimals=1, length=
         print()
 
 
+# Główna część programu
 if __name__ == "__main__":
+    counter = 0
 
-    log = []
+    # Aktualnie open jest w trybie dodawania kolejnych lini aby to zmienić zmien 'a' na 'w'
+    save = open('output2.txt', 'a')
     url = "https://services1.arcgis.com/YmCK8KfESHdxUQgm/arcgis/rest/services/KoronawirusPolska_czas_widok" \
           "/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects" \
           "&outFields=*&orderByFields=Aktualizacja%20asc&resultOffset=0&resultRecordCount=32000&resultType=standard" \
           "&cacheHint=true "
 
+    # Dostanie JSON ze strony
     with urllib.request.urlopen(url) as worker:
         worker = worker.read()
         # I'm guessing this would output the html source code ?
         json_code = json.loads(worker)
-        print(worker)
 
-        print("--------")
-        print(json_code["features"])
+    # Wypisanie interesujących danych z json
+    while counter < len(json_code['features']):
+        numer_zgloszenia = json_code['features'][counter]['attributes']['nr']
 
-        worker2 = json_code["features"]
+        timestamp_json = str(json_code['features'][counter]['attributes']['Aktualizacja'])
+        timestamp = int(timestamp_json[:-3])
+        date = datetime.fromtimestamp(timestamp)
+        data_zgloszenia = date
 
-        for row in worker2:
-            print("row attrib " + str(row))
-            # print(worker2[row])
+        potwierdzone_zakazenia = json_code['features'][counter]['attributes']['Potwierdzone']
+        zgony = json_code['features'][counter]['attributes']['Smiertelne']
+        wyleczonych = json_code['features'][counter]['attributes']['Wyleczone']
+        przyrost_dzienny = json_code['features'][counter]['attributes']['Dziennie_potwierdzone']
+        zgony_dziennie = json_code['features'][counter]['attributes']['Dziennie_śmiertelne']
+
+        # Dodanie danych do pliku
+        print('--------------', file=save)
+        print('', file=save)
+        print('Numer zgloszenia: ', numer_zgloszenia, file=save)
+        print('Data zgloszenia: ', data_zgloszenia, file=save)
+        print('Potwierdzone zakazenia: ', potwierdzone_zakazenia, file=save)
+        print('Zgony: ', zgony, file=save)
+        print('Wyleczonych: ', wyleczonych, file=save)
+        print('', file=save)
+        print('Przyrost dzienny zakazen: ', przyrost_dzienny, file=save)
+        print('Zgony dziennie: ', zgony_dziennie, file=save)
+        print('', file=save)
+        print('--------------', file=save)
+        print('', file=save)
+
+        # Wypisanie danych w konsoli
+        print('--------------')
+        print('')
+        print('Numer zgloszenia: ', numer_zgloszenia)
+        print('Data zgloszenia: ', data_zgloszenia)
+        print('Potwierdzone zakazenia: ', potwierdzone_zakazenia)
+        print('Zgony: ', zgony)
+        print('Wyleczonych: ', wyleczonych)
+        print('')
+        print('Przyrost dzienny zakazen: ', przyrost_dzienny)
+        print('Zgony dziennie: ', zgony_dziennie)
+        print('')
+        print('--------------')
+        print('')
+
+        counter += 1
+
+    # Zamkniecie edycji pliku
+    save.close()
