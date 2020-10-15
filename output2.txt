@@ -1,7 +1,7 @@
 --------------
 
 Numer zgloszenia:  1
-Data zgloszenia:  2020-03-04 01:00:00
+Data zgloszenia:  2020-03-04 01:00:00  (  Sroda  )
 Potwierdzone zakazenia:  1
 Zgony:  0
 Wyleczonych:  0
@@ -14,7 +14,7 @@ Zgony dziennie:  0
 --------------
 
 Numer zgloszenia:  2
-Data zgloszenia:  2020-03-05 01:00:00
+Data zgloszenia:  2020-03-05 01:00:00  (  Czwartek  )
 Potwierdzone zakazenia:  1
 Zgony:  0
 Wyleczonych:  0
@@ -27,7 +27,7 @@ Zgony dziennie:  0
 --------------
 
 Numer zgloszenia:  3
-Data zgloszenia:  2020-03-06 01:00:00
+Data zgloszenia:  2020-03-06 01:00:00  (  Piatek  )
 Potwierdzone zakazenia:  5
 Zgony:  0
 Wyleczonych:  0
@@ -40,7 +40,7 @@ Zgony dziennie:  0
 --------------
 
 Numer zgloszenia:  4
-Data zgloszenia:  2020-03-07 01:00:00
+Data zgloszenia:  2020-03-07 01:00:00  (  Sobota  )
 Potwierdzone zakazenia:  6
 Zgony:  0
 Wyleczonych:  0
@@ -53,7 +53,7 @@ Zgony dziennie:  0
 --------------
 
 Numer zgloszenia:  5
-Data zgloszenia:  2020-03-08 01:00:00
+Data zgloszenia:  2020-03-08 01:00:00  (  Niedziela  )
 Potwierdzone zakazenia:  11
 Zgony:  0
 Wyleczonych:  0
@@ -66,7 +66,7 @@ Zgony dziennie:  0
 --------------
 
 Numer zgloszenia:  6
-Data zgloszenia:  2020-03-09 01:00:00
+Data zgloszenia:  2020-03-09 01:00:00  (  Poniedzialek  )
 Potwierdzone zakazenia:  17
 Zgony:  0
 Wyleczonych:  0
@@ -79,7 +79,7 @@ Zgony dziennie:  0
 --------------
 
 Numer zgloszenia:  7
-Data zgloszenia:  2020-03-10 01:00:00
+Data zgloszenia:  2020-03-10 01:00:00  (  Wtorek  )
 Potwierdzone zakazenia:  22
 Zgony:  0
 Wyleczonych:  0
@@ -92,7 +92,7 @@ Zgony dziennie:  0
 --------------
 
 Numer zgloszenia:  8
-Data zgloszenia:  2020-03-11 17:45:00
+Data zgloszenia:  2020-03-11 17:45:00  (  Sroda  )
 Potwierdzone zakazenia:  31
 Zgony:  0
 Wyleczonych:  0
@@ -105,7 +105,7 @@ Zgony dziennie:  0
 --------------
 
 Numer zgloszenia:  9
-Data zgloszenia:  2020-03-12 15:00:00
+Data zgloszenia:  2020-03-12 15:00:00  (  Czwartek  )
 Potwierdzone zakazenia:  51
 Zgony:  1
 Wyleczonych:  0
@@ -118,7 +118,7 @@ Zgony dziennie:  1
 --------------
 
 Numer zgloszenia:  10
-Data zgloszenia:  2020-03-13 07:00:00
+Data zgloszenia:  2020-03-13 07:00:00  (  Piatek  )
 Potwierdzone zakazenia:  68
 Zgony:  2
 Wyleczonych:  0
@@ -131,7 +131,7 @@ Zgony dziennie:  1
 --------------
 
 Numer zgloszenia:  11
-Data zgloszenia:  2020-03-14 19:30:00
+Data zgloszenia:  2020-03-14 19:30:00  (  Sobota  )
 Potwierdzone zakazenia:  104
 Zgony:  3
 Wyleczonych:  0
@@ -144,7 +144,7 @@ Zgony dziennie:  1
 --------------
 
 Numer zgloszenia:  12
-Data zgloszenia:  2020-03-15 15:15:00
+Data zgloszenia:  2020-03-15 15:15:00  (  Niedziela  )
 Potwierdzone zakazenia:  125
 Zgony:  3
 Wyleczonych:  0
@@ -157,7 +157,7 @@ Zgony dziennie:  0
 --------------
 
 Numer zgloszenia:  13
-Data zgloszenia:  2020-03-16 21:00:00
+Data zgloszenia:  2020-03-16 21:00:00  (  Poniedzialek  )
 Potwierdzone zakazenia:  177
 Zgony:  4
 Wyleczonych:  0
@@ -170,7 +170,7 @@ Zgony dziennie:  1
 --------------
 
 Numer zgloszenia:  14
-Data zgloszenia:  2020-03-17 15:00:00
+Data zgloszenia:  2020-03-17 15:00:00  (  Wtorek  )
 Potwierdzone zakazenia:  238
 Zgony:  5
 Wyleczonych:  0
@@ -183,7 +183,7 @@ Zgony dziennie:  1
 --------------
 
 Numer zgloszenia:  15
-Data zgloszenia:  2020-03-18 19:00:00
+Data zgloszenia:  2020-03-18 19:00:00  (  Sroda  )
 Potwierdzone zakazenia:  287
 Zgony:  5
 Wyleczonych:  1
@@ -196,7 +196,7 @@ Zgony dziennie:  0
 --------------
 
 Numer zgloszenia:  16
-Data zgloszenia:  2020-03-19 19:00:00
+Data zgloszenia:  2020-03-19 19:00:00  (  Czwartek  )
 Potwierdzone zakazenia:  355
 Zgony:  5
 Wyleczonych:  1
@@ -209,7 +209,7 @@ Zgony dziennie:  0
 --------------
 
 Numer zgloszenia:  17
-Data zgloszenia:  2020-03-20 21:01:47
+Data zgloszenia:  2020-03-20 21:01:47  (  Piatek  )
 Potwierdzone zakazenia:  425
 Zgony:  5
 Wyleczonych:  1
@@ -222,7 +222,7 @@ Zgony dziennie:  0
 --------------
 
 Numer zgloszenia:  18
-Data zgloszenia:  2020-03-21 20:58:10
+Data zgloszenia:  2020-03-21 20:58:10  (  Sobota  )
 Potwierdzone zakazenia:  536
 Zgony:  5
 Wyleczonych:  1
@@ -235,7 +235,7 @@ Zgony dziennie:  0
 --------------
 
 Numer zgloszenia:  19
-Data zgloszenia:  2020-03-22 21:13:30
+Data zgloszenia:  2020-03-22 21:13:30  (  Niedziela  )
 Potwierdzone zakazenia:  634
 Zgony:  7
 Wyleczonych:  1
@@ -248,7 +248,7 @@ Zgony dziennie:  2
 --------------
 
 Numer zgloszenia:  20
-Data zgloszenia:  2020-03-23 20:37:42
+Data zgloszenia:  2020-03-23 20:37:42  (  Poniedzialek  )
 Potwierdzone zakazenia:  749
 Zgony:  8
 Wyleczonych:  1
@@ -261,7 +261,7 @@ Zgony dziennie:  1
 --------------
 
 Numer zgloszenia:  21
-Data zgloszenia:  2020-03-24 21:40:31
+Data zgloszenia:  2020-03-24 21:40:31  (  Wtorek  )
 Potwierdzone zakazenia:  901
 Zgony:  10
 Wyleczonych:  1
@@ -274,7 +274,7 @@ Zgony dziennie:  2
 --------------
 
 Numer zgloszenia:  22
-Data zgloszenia:  2020-03-25 20:43:35
+Data zgloszenia:  2020-03-25 20:43:35  (  Sroda  )
 Potwierdzone zakazenia:  1051
 Zgony:  14
 Wyleczonych:  2
@@ -287,7 +287,7 @@ Zgony dziennie:  4
 --------------
 
 Numer zgloszenia:  23
-Data zgloszenia:  2020-03-26 21:10:34
+Data zgloszenia:  2020-03-26 21:10:34  (  Czwartek  )
 Potwierdzone zakazenia:  1221
 Zgony:  16
 Wyleczonych:  0
@@ -300,7 +300,7 @@ Zgony dziennie:  2
 --------------
 
 Numer zgloszenia:  24
-Data zgloszenia:  2020-03-27 20:51:36
+Data zgloszenia:  2020-03-27 20:51:36  (  Piatek  )
 Potwierdzone zakazenia:  1389
 Zgony:  16
 Wyleczonych:  0
@@ -313,7 +313,7 @@ Zgony dziennie:  0
 --------------
 
 Numer zgloszenia:  25
-Data zgloszenia:  2020-03-28 20:15:54
+Data zgloszenia:  2020-03-28 20:15:54  (  Sobota  )
 Potwierdzone zakazenia:  1638
 Zgony:  18
 Wyleczonych:  0
@@ -326,7 +326,7 @@ Zgony dziennie:  2
 --------------
 
 Numer zgloszenia:  26
-Data zgloszenia:  2020-03-29 21:30:43
+Data zgloszenia:  2020-03-29 21:30:43  (  Niedziela  )
 Potwierdzone zakazenia:  1862
 Zgony:  22
 Wyleczonych:  0
@@ -339,7 +339,7 @@ Zgony dziennie:  4
 --------------
 
 Numer zgloszenia:  27
-Data zgloszenia:  2020-03-30 20:15:36
+Data zgloszenia:  2020-03-30 20:15:36  (  Poniedzialek  )
 Potwierdzone zakazenia:  2055
 Zgony:  31
 Wyleczonych:  0
@@ -352,7 +352,7 @@ Zgony dziennie:  9
 --------------
 
 Numer zgloszenia:  28
-Data zgloszenia:  2020-03-31 22:56:54
+Data zgloszenia:  2020-03-31 22:56:54  (  Wtorek  )
 Potwierdzone zakazenia:  2311
 Zgony:  33
 Wyleczonych:  0
@@ -365,7 +365,7 @@ Zgony dziennie:  2
 --------------
 
 Numer zgloszenia:  29
-Data zgloszenia:  2020-04-01 21:41:39
+Data zgloszenia:  2020-04-01 21:41:39  (  Sroda  )
 Potwierdzone zakazenia:  2554
 Zgony:  43
 Wyleczonych:  0
@@ -378,7 +378,7 @@ Zgony dziennie:  10
 --------------
 
 Numer zgloszenia:  30
-Data zgloszenia:  2020-04-02 21:37:36
+Data zgloszenia:  2020-04-02 21:37:36  (  Czwartek  )
 Potwierdzone zakazenia:  2946
 Zgony:  57
 Wyleczonych:  0
@@ -391,7 +391,7 @@ Zgony dziennie:  14
 --------------
 
 Numer zgloszenia:  31
-Data zgloszenia:  2020-04-03 23:06:43
+Data zgloszenia:  2020-04-03 23:06:43  (  Piatek  )
 Potwierdzone zakazenia:  3383
 Zgony:  71
 Wyleczonych:  0
@@ -404,7 +404,7 @@ Zgony dziennie:  14
 --------------
 
 Numer zgloszenia:  32
-Data zgloszenia:  2020-04-04 17:54:36
+Data zgloszenia:  2020-04-04 17:54:36  (  Sobota  )
 Potwierdzone zakazenia:  3627
 Zgony:  79
 Wyleczonych:  114
@@ -417,7 +417,7 @@ Zgony dziennie:  8
 --------------
 
 Numer zgloszenia:  33
-Data zgloszenia:  2020-04-05 17:51:49
+Data zgloszenia:  2020-04-05 17:51:49  (  Niedziela  )
 Potwierdzone zakazenia:  4102
 Zgony:  94
 Wyleczonych:  134
@@ -430,7 +430,7 @@ Zgony dziennie:  15
 --------------
 
 Numer zgloszenia:  34
-Data zgloszenia:  2020-04-06 17:54:40
+Data zgloszenia:  2020-04-06 17:54:40  (  Poniedzialek  )
 Potwierdzone zakazenia:  4413
 Zgony:  107
 Wyleczonych:  162
@@ -443,7 +443,7 @@ Zgony dziennie:  13
 --------------
 
 Numer zgloszenia:  35
-Data zgloszenia:  2020-04-07 19:18:34
+Data zgloszenia:  2020-04-07 19:18:34  (  Wtorek  )
 Potwierdzone zakazenia:  4848
 Zgony:  129
 Wyleczonych:  162
@@ -456,7 +456,7 @@ Zgony dziennie:  22
 --------------
 
 Numer zgloszenia:  36
-Data zgloszenia:  2020-04-08 18:39:36
+Data zgloszenia:  2020-04-08 18:39:36  (  Sroda  )
 Potwierdzone zakazenia:  5205
 Zgony:  159
 Wyleczonych:  162
@@ -469,7 +469,7 @@ Zgony dziennie:  30
 --------------
 
 Numer zgloszenia:  37
-Data zgloszenia:  2020-04-09 17:42:36
+Data zgloszenia:  2020-04-09 17:42:36  (  Czwartek  )
 Potwierdzone zakazenia:  5575
 Zgony:  174
 Wyleczonych:  162
@@ -482,7 +482,7 @@ Zgony dziennie:  15
 --------------
 
 Numer zgloszenia:  38
-Data zgloszenia:  2020-04-10 17:21:35
+Data zgloszenia:  2020-04-10 17:21:35  (  Piatek  )
 Potwierdzone zakazenia:  5955
 Zgony:  181
 Wyleczonych:  162
@@ -495,7 +495,7 @@ Zgony dziennie:  7
 --------------
 
 Numer zgloszenia:  39
-Data zgloszenia:  2020-04-11 17:54:40
+Data zgloszenia:  2020-04-11 17:54:40  (  Sobota  )
 Potwierdzone zakazenia:  6356
 Zgony:  208
 Wyleczonych:  162
@@ -508,7 +508,7 @@ Zgony dziennie:  27
 --------------
 
 Numer zgloszenia:  40
-Data zgloszenia:  2020-04-12 17:24:35
+Data zgloszenia:  2020-04-12 17:24:35  (  Niedziela  )
 Potwierdzone zakazenia:  6674
 Zgony:  232
 Wyleczonych:  162
@@ -521,7 +521,7 @@ Zgony dziennie:  24
 --------------
 
 Numer zgloszenia:  41
-Data zgloszenia:  2020-04-13 17:21:37
+Data zgloszenia:  2020-04-13 17:21:37  (  Poniedzialek  )
 Potwierdzone zakazenia:  6934
 Zgony:  245
 Wyleczonych:  162
@@ -534,7 +534,7 @@ Zgony dziennie:  13
 --------------
 
 Numer zgloszenia:  42
-Data zgloszenia:  2020-04-14 18:27:36
+Data zgloszenia:  2020-04-14 18:27:36  (  Wtorek  )
 Potwierdzone zakazenia:  7202
 Zgony:  263
 Wyleczonych:  162
@@ -547,7 +547,7 @@ Zgony dziennie:  18
 --------------
 
 Numer zgloszenia:  43
-Data zgloszenia:  2020-04-15 18:00:37
+Data zgloszenia:  2020-04-15 18:00:37  (  Sroda  )
 Potwierdzone zakazenia:  7582
 Zgony:  286
 Wyleczonych:  162
@@ -560,7 +560,7 @@ Zgony dziennie:  23
 --------------
 
 Numer zgloszenia:  44
-Data zgloszenia:  2020-04-16 17:59:36
+Data zgloszenia:  2020-04-16 17:59:36  (  Czwartek  )
 Potwierdzone zakazenia:  7918
 Zgony:  314
 Wyleczonych:  162
@@ -573,7 +573,7 @@ Zgony dziennie:  28
 --------------
 
 Numer zgloszenia:  45
-Data zgloszenia:  2020-04-17 18:11:35
+Data zgloszenia:  2020-04-17 18:11:35  (  Piatek  )
 Potwierdzone zakazenia:  8379
 Zgony:  332
 Wyleczonych:  162
@@ -586,7 +586,7 @@ Zgony dziennie:  18
 --------------
 
 Numer zgloszenia:  46
-Data zgloszenia:  2020-04-18 17:50:37
+Data zgloszenia:  2020-04-18 17:50:37  (  Sobota  )
 Potwierdzone zakazenia:  8742
 Zgony:  347
 Wyleczonych:  162
@@ -599,7 +599,7 @@ Zgony dziennie:  15
 --------------
 
 Numer zgloszenia:  47
-Data zgloszenia:  2020-04-19 21:38:36
+Data zgloszenia:  2020-04-19 21:38:36  (  Niedziela  )
 Potwierdzone zakazenia:  9287
 Zgony:  360
 Wyleczonych:  162
@@ -612,7 +612,7 @@ Zgony dziennie:  13
 --------------
 
 Numer zgloszenia:  48
-Data zgloszenia:  2020-04-20 18:20:36
+Data zgloszenia:  2020-04-20 18:20:36  (  Poniedzialek  )
 Potwierdzone zakazenia:  9593
 Zgony:  380
 Wyleczonych:  162
@@ -625,7 +625,7 @@ Zgony dziennie:  20
 --------------
 
 Numer zgloszenia:  49
-Data zgloszenia:  2020-04-21 18:20:36
+Data zgloszenia:  2020-04-21 18:20:36  (  Wtorek  )
 Potwierdzone zakazenia:  9856
 Zgony:  401
 Wyleczonych:  162
@@ -638,7 +638,7 @@ Zgony dziennie:  21
 --------------
 
 Numer zgloszenia:  50
-Data zgloszenia:  2020-04-22 17:50:36
+Data zgloszenia:  2020-04-22 17:50:36  (  Sroda  )
 Potwierdzone zakazenia:  10169
 Zgony:  426
 Wyleczonych:  162
@@ -651,7 +651,7 @@ Zgony dziennie:  25
 --------------
 
 Numer zgloszenia:  51
-Data zgloszenia:  2020-04-23 18:32:35
+Data zgloszenia:  2020-04-23 18:32:35  (  Czwartek  )
 Potwierdzone zakazenia:  10511
 Zgony:  454
 Wyleczonych:  162
@@ -664,7 +664,7 @@ Zgony dziennie:  28
 --------------
 
 Numer zgloszenia:  52
-Data zgloszenia:  2020-04-24 19:05:35
+Data zgloszenia:  2020-04-24 19:05:35  (  Piatek  )
 Potwierdzone zakazenia:  10892
 Zgony:  494
 Wyleczonych:  162
@@ -677,7 +677,7 @@ Zgony dziennie:  40
 --------------
 
 Numer zgloszenia:  53
-Data zgloszenia:  2020-04-25 17:47:35
+Data zgloszenia:  2020-04-25 17:47:35  (  Sobota  )
 Potwierdzone zakazenia:  11273
 Zgony:  524
 Wyleczonych:  162
@@ -690,7 +690,7 @@ Zgony dziennie:  30
 --------------
 
 Numer zgloszenia:  54
-Data zgloszenia:  2020-04-26 17:50:35
+Data zgloszenia:  2020-04-26 17:50:35  (  Niedziela  )
 Potwierdzone zakazenia:  11617
 Zgony:  535
 Wyleczonych:  162
@@ -703,7 +703,7 @@ Zgony dziennie:  11
 --------------
 
 Numer zgloszenia:  55
-Data zgloszenia:  2020-04-27 18:41:35
+Data zgloszenia:  2020-04-27 18:41:35  (  Poniedzialek  )
 Potwierdzone zakazenia:  11902
 Zgony:  562
 Wyleczonych:  162
@@ -716,7 +716,7 @@ Zgony dziennie:  27
 --------------
 
 Numer zgloszenia:  56
-Data zgloszenia:  2020-04-28 18:08:35
+Data zgloszenia:  2020-04-28 18:08:35  (  Wtorek  )
 Potwierdzone zakazenia:  12218
 Zgony:  596
 Wyleczonych:  162
@@ -729,7 +729,7 @@ Zgony dziennie:  34
 --------------
 
 Numer zgloszenia:  57
-Data zgloszenia:  2020-04-29 18:14:34
+Data zgloszenia:  2020-04-29 18:14:34  (  Sroda  )
 Potwierdzone zakazenia:  12640
 Zgony:  624
 Wyleczonych:  162
@@ -742,7 +742,7 @@ Zgony dziennie:  28
 --------------
 
 Numer zgloszenia:  58
-Data zgloszenia:  2020-04-30 18:14:41
+Data zgloszenia:  2020-04-30 18:14:41  (  Czwartek  )
 Potwierdzone zakazenia:  12877
 Zgony:  644
 Wyleczonych:  162
@@ -755,7 +755,7 @@ Zgony dziennie:  20
 --------------
 
 Numer zgloszenia:  59
-Data zgloszenia:  2020-05-01 13:38:36
+Data zgloszenia:  2020-05-01 13:38:36  (  Piatek  )
 Potwierdzone zakazenia:  13105
 Zgony:  651
 Wyleczonych:  162
@@ -768,7 +768,7 @@ Zgony dziennie:  7
 --------------
 
 Numer zgloszenia:  60
-Data zgloszenia:  2020-05-02 13:38:45
+Data zgloszenia:  2020-05-02 13:38:45  (  Sobota  )
 Potwierdzone zakazenia:  13375
 Zgony:  664
 Wyleczonych:  162
@@ -781,7 +781,7 @@ Zgony dziennie:  13
 --------------
 
 Numer zgloszenia:  61
-Data zgloszenia:  2020-05-03 13:14:38
+Data zgloszenia:  2020-05-03 13:14:38  (  Niedziela  )
 Potwierdzone zakazenia:  13693
 Zgony:  678
 Wyleczonych:  162
@@ -794,7 +794,7 @@ Zgony dziennie:  14
 --------------
 
 Numer zgloszenia:  62
-Data zgloszenia:  2020-05-04 18:05:35
+Data zgloszenia:  2020-05-04 18:05:35  (  Poniedzialek  )
 Potwierdzone zakazenia:  14006
 Zgony:  698
 Wyleczonych:  162
@@ -807,7 +807,7 @@ Zgony dziennie:  20
 --------------
 
 Numer zgloszenia:  63
-Data zgloszenia:  2020-05-05 17:53:37
+Data zgloszenia:  2020-05-05 17:53:37  (  Wtorek  )
 Potwierdzone zakazenia:  14431
 Zgony:  716
 Wyleczonych:  162
@@ -820,7 +820,7 @@ Zgony dziennie:  18
 --------------
 
 Numer zgloszenia:  64
-Data zgloszenia:  2020-05-06 17:53:42
+Data zgloszenia:  2020-05-06 17:53:42  (  Sroda  )
 Potwierdzone zakazenia:  14740
 Zgony:  733
 Wyleczonych:  162
@@ -833,7 +833,7 @@ Zgony dziennie:  17
 --------------
 
 Numer zgloszenia:  65
-Data zgloszenia:  2020-05-07 18:01:38
+Data zgloszenia:  2020-05-07 18:01:38  (  Czwartek  )
 Potwierdzone zakazenia:  15047
 Zgony:  755
 Wyleczonych:  162
@@ -846,7 +846,7 @@ Zgony dziennie:  22
 --------------
 
 Numer zgloszenia:  66
-Data zgloszenia:  2020-05-08 18:04:45
+Data zgloszenia:  2020-05-08 18:04:45  (  Piatek  )
 Potwierdzone zakazenia:  15366
 Zgony:  776
 Wyleczonych:  162
@@ -859,7 +859,7 @@ Zgony dziennie:  21
 --------------
 
 Numer zgloszenia:  67
-Data zgloszenia:  2020-05-09 17:52:33
+Data zgloszenia:  2020-05-09 17:52:33  (  Sobota  )
 Potwierdzone zakazenia:  15651
 Zgony:  785
 Wyleczonych:  162
@@ -872,7 +872,7 @@ Zgony dziennie:  9
 --------------
 
 Numer zgloszenia:  68
-Data zgloszenia:  2020-05-10 17:58:34
+Data zgloszenia:  2020-05-10 17:58:34  (  Niedziela  )
 Potwierdzone zakazenia:  15996
 Zgony:  800
 Wyleczonych:  162
@@ -885,7 +885,7 @@ Zgony dziennie:  15
 --------------
 
 Numer zgloszenia:  69
-Data zgloszenia:  2020-05-11 17:37:35
+Data zgloszenia:  2020-05-11 17:37:35  (  Poniedzialek  )
 Potwierdzone zakazenia:  16326
 Zgony:  811
 Wyleczonych:  162
@@ -898,7 +898,7 @@ Zgony dziennie:  11
 --------------
 
 Numer zgloszenia:  70
-Data zgloszenia:  2020-05-12 18:25:35
+Data zgloszenia:  2020-05-12 18:25:35  (  Wtorek  )
 Potwierdzone zakazenia:  16921
 Zgony:  839
 Wyleczonych:  162
@@ -911,7 +911,7 @@ Zgony dziennie:  28
 --------------
 
 Numer zgloszenia:  71
-Data zgloszenia:  2020-05-13 19:01:37
+Data zgloszenia:  2020-05-13 19:01:37  (  Sroda  )
 Potwierdzone zakazenia:  17204
 Zgony:  861
 Wyleczonych:  162
@@ -924,7 +924,7 @@ Zgony dziennie:  22
 --------------
 
 Numer zgloszenia:  72
-Data zgloszenia:  2020-05-14 17:43:37
+Data zgloszenia:  2020-05-14 17:43:37  (  Czwartek  )
 Potwierdzone zakazenia:  17615
 Zgony:  883
 Wyleczonych:  162
@@ -937,7 +937,7 @@ Zgony dziennie:  22
 --------------
 
 Numer zgloszenia:  73
-Data zgloszenia:  2020-05-15 18:31:35
+Data zgloszenia:  2020-05-15 18:31:35  (  Piatek  )
 Potwierdzone zakazenia:  18016
 Zgony:  907
 Wyleczonych:  162
@@ -950,7 +950,7 @@ Zgony dziennie:  24
 --------------
 
 Numer zgloszenia:  74
-Data zgloszenia:  2020-05-16 18:19:35
+Data zgloszenia:  2020-05-16 18:19:35  (  Sobota  )
 Potwierdzone zakazenia:  18257
 Zgony:  915
 Wyleczonych:  162
@@ -963,7 +963,7 @@ Zgony dziennie:  8
 --------------
 
 Numer zgloszenia:  75
-Data zgloszenia:  2020-05-17 17:43:35
+Data zgloszenia:  2020-05-17 17:43:35  (  Niedziela  )
 Potwierdzone zakazenia:  18529
 Zgony:  925
 Wyleczonych:  162
@@ -976,7 +976,7 @@ Zgony dziennie:  10
 --------------
 
 Numer zgloszenia:  76
-Data zgloszenia:  2020-05-18 17:52:35
+Data zgloszenia:  2020-05-18 17:52:35  (  Poniedzialek  )
 Potwierdzone zakazenia:  18885
 Zgony:  936
 Wyleczonych:  162
@@ -989,7 +989,7 @@ Zgony dziennie:  11
 --------------
 
 Numer zgloszenia:  77
-Data zgloszenia:  2020-05-19 18:28:34
+Data zgloszenia:  2020-05-19 18:28:34  (  Wtorek  )
 Potwierdzone zakazenia:  19268
 Zgony:  948
 Wyleczonych:  162
@@ -1002,7 +1002,7 @@ Zgony dziennie:  12
 --------------
 
 Numer zgloszenia:  78
-Data zgloszenia:  2020-05-20 17:58:33
+Data zgloszenia:  2020-05-20 17:58:33  (  Sroda  )
 Potwierdzone zakazenia:  19739
 Zgony:  962
 Wyleczonych:  162
@@ -1015,7 +1015,7 @@ Zgony dziennie:  14
 --------------
 
 Numer zgloszenia:  79
-Data zgloszenia:  2020-05-21 17:43:36
+Data zgloszenia:  2020-05-21 17:43:36  (  Czwartek  )
 Potwierdzone zakazenia:  20143
 Zgony:  972
 Wyleczonych:  162
@@ -1028,7 +1028,7 @@ Zgony dziennie:  10
 --------------
 
 Numer zgloszenia:  80
-Data zgloszenia:  2020-05-22 17:55:35
+Data zgloszenia:  2020-05-22 17:55:35  (  Piatek  )
 Potwierdzone zakazenia:  20619
 Zgony:  982
 Wyleczonych:  162
@@ -1041,7 +1041,7 @@ Zgony dziennie:  10
 --------------
 
 Numer zgloszenia:  81
-Data zgloszenia:  2020-05-23 18:37:36
+Data zgloszenia:  2020-05-23 18:37:36  (  Sobota  )
 Potwierdzone zakazenia:  20931
 Zgony:  993
 Wyleczonych:  162
@@ -1054,7 +1054,7 @@ Zgony dziennie:  11
 --------------
 
 Numer zgloszenia:  82
-Data zgloszenia:  2020-05-24 18:25:34
+Data zgloszenia:  2020-05-24 18:25:34  (  Niedziela  )
 Potwierdzone zakazenia:  21326
 Zgony:  996
 Wyleczonych:  162
@@ -1067,7 +1067,7 @@ Zgony dziennie:  3
 --------------
 
 Numer zgloszenia:  83
-Data zgloszenia:  2020-05-25 18:01:35
+Data zgloszenia:  2020-05-25 18:01:35  (  Poniedzialek  )
 Potwierdzone zakazenia:  21631
 Zgony:  1007
 Wyleczonych:  162
@@ -1080,7 +1080,7 @@ Zgony dziennie:  11
 --------------
 
 Numer zgloszenia:  84
-Data zgloszenia:  2020-05-26 17:31:34
+Data zgloszenia:  2020-05-26 17:31:34  (  Wtorek  )
 Potwierdzone zakazenia:  22074
 Zgony:  1024
 Wyleczonych:  162
@@ -1093,7 +1093,7 @@ Zgony dziennie:  17
 --------------
 
 Numer zgloszenia:  85
-Data zgloszenia:  2020-05-27 17:40:35
+Data zgloszenia:  2020-05-27 17:40:35  (  Sroda  )
 Potwierdzone zakazenia:  22473
 Zgony:  1028
 Wyleczonych:  162
@@ -1106,7 +1106,7 @@ Zgony dziennie:  4
 --------------
 
 Numer zgloszenia:  86
-Data zgloszenia:  2020-05-28 17:37:35
+Data zgloszenia:  2020-05-28 17:37:35  (  Czwartek  )
 Potwierdzone zakazenia:  22825
 Zgony:  1038
 Wyleczonych:  162
@@ -1119,7 +1119,7 @@ Zgony dziennie:  10
 --------------
 
 Numer zgloszenia:  87
-Data zgloszenia:  2020-05-29 17:37:35
+Data zgloszenia:  2020-05-29 17:37:35  (  Piatek  )
 Potwierdzone zakazenia:  23155
 Zgony:  1051
 Wyleczonych:  162
@@ -1132,7 +1132,7 @@ Zgony dziennie:  13
 --------------
 
 Numer zgloszenia:  88
-Data zgloszenia:  2020-05-30 17:43:34
+Data zgloszenia:  2020-05-30 17:43:34  (  Sobota  )
 Potwierdzone zakazenia:  23571
 Zgony:  1061
 Wyleczonych:  162
@@ -1145,7 +1145,7 @@ Zgony dziennie:  10
 --------------
 
 Numer zgloszenia:  89
-Data zgloszenia:  2020-05-31 17:40:33
+Data zgloszenia:  2020-05-31 17:40:33  (  Niedziela  )
 Potwierdzone zakazenia:  23786
 Zgony:  1064
 Wyleczonych:  162
@@ -1158,7 +1158,7 @@ Zgony dziennie:  3
 --------------
 
 Numer zgloszenia:  90
-Data zgloszenia:  2020-06-01 17:40:33
+Data zgloszenia:  2020-06-01 17:40:33  (  Poniedzialek  )
 Potwierdzone zakazenia:  24165
 Zgony:  1074
 Wyleczonych:  162
@@ -1171,7 +1171,7 @@ Zgony dziennie:  10
 --------------
 
 Numer zgloszenia:  91
-Data zgloszenia:  2020-06-02 17:43:40
+Data zgloszenia:  2020-06-02 17:43:40  (  Wtorek  )
 Potwierdzone zakazenia:  24395
 Zgony:  1092
 Wyleczonych:  162
@@ -1184,7 +1184,7 @@ Zgony dziennie:  18
 --------------
 
 Numer zgloszenia:  92
-Data zgloszenia:  2020-06-03 17:43:34
+Data zgloszenia:  2020-06-03 17:43:34  (  Sroda  )
 Potwierdzone zakazenia:  24687
 Zgony:  1115
 Wyleczonych:  162
@@ -1197,7 +1197,7 @@ Zgony dziennie:  23
 --------------
 
 Numer zgloszenia:  93
-Data zgloszenia:  2020-06-04 17:55:35
+Data zgloszenia:  2020-06-04 17:55:35  (  Czwartek  )
 Potwierdzone zakazenia:  25048
 Zgony:  1117
 Wyleczonych:  162
@@ -1210,7 +1210,7 @@ Zgony dziennie:  2
 --------------
 
 Numer zgloszenia:  94
-Data zgloszenia:  2020-06-05 18:01:33
+Data zgloszenia:  2020-06-05 18:01:33  (  Piatek  )
 Potwierdzone zakazenia:  25419
 Zgony:  1137
 Wyleczonych:  162
@@ -1223,7 +1223,7 @@ Zgony dziennie:  20
 --------------
 
 Numer zgloszenia:  95
-Data zgloszenia:  2020-06-06 20:43:34
+Data zgloszenia:  2020-06-06 20:43:34  (  Sobota  )
 Potwierdzone zakazenia:  25986
 Zgony:  1153
 Wyleczonych:  162
@@ -1236,7 +1236,7 @@ Zgony dziennie:  16
 --------------
 
 Numer zgloszenia:  96
-Data zgloszenia:  2020-06-07 17:55:36
+Data zgloszenia:  2020-06-07 17:55:36  (  Niedziela  )
 Potwierdzone zakazenia:  26561
 Zgony:  1157
 Wyleczonych:  162
@@ -1249,7 +1249,7 @@ Zgony dziennie:  4
 --------------
 
 Numer zgloszenia:  97
-Data zgloszenia:  2020-06-08 18:16:34
+Data zgloszenia:  2020-06-08 18:16:34  (  Poniedzialek  )
 Potwierdzone zakazenia:  27160
 Zgony:  1166
 Wyleczonych:  162
@@ -1262,7 +1262,7 @@ Zgony dziennie:  9
 --------------
 
 Numer zgloszenia:  98
-Data zgloszenia:  2020-06-09 17:52:36
+Data zgloszenia:  2020-06-09 17:52:36  (  Wtorek  )
 Potwierdzone zakazenia:  27560
 Zgony:  1183
 Wyleczonych:  162
@@ -1275,7 +1275,7 @@ Zgony dziennie:  17
 --------------
 
 Numer zgloszenia:  99
-Data zgloszenia:  2020-06-10 17:58:37
+Data zgloszenia:  2020-06-10 17:58:37  (  Sroda  )
 Potwierdzone zakazenia:  27757
 Zgony:  1206
 Wyleczonych:  162
@@ -1288,7 +1288,7 @@ Zgony dziennie:  23
 --------------
 
 Numer zgloszenia:  100
-Data zgloszenia:  2020-06-11 12:43:00
+Data zgloszenia:  2020-06-11 12:43:00  (  Czwartek  )
 Potwierdzone zakazenia:  28201
 Zgony:  1215
 Wyleczonych:  162
@@ -1301,7 +1301,7 @@ Zgony dziennie:  9
 --------------
 
 Numer zgloszenia:  101
-Data zgloszenia:  2020-06-12 10:43:00
+Data zgloszenia:  2020-06-12 10:43:00  (  Piatek  )
 Potwierdzone zakazenia:  28577
 Zgony:  1222
 Wyleczonych:  162
@@ -1314,7 +1314,7 @@ Zgony dziennie:  7
 --------------
 
 Numer zgloszenia:  102
-Data zgloszenia:  2020-06-13 10:05:21
+Data zgloszenia:  2020-06-13 10:05:21  (  Sobota  )
 Potwierdzone zakazenia:  29017
 Zgony:  1237
 Wyleczonych:  162
@@ -1327,7 +1327,7 @@ Zgony dziennie:  15
 --------------
 
 Numer zgloszenia:  103
-Data zgloszenia:  2020-06-14 10:35:21
+Data zgloszenia:  2020-06-14 10:35:21  (  Niedziela  )
 Potwierdzone zakazenia:  29392
 Zgony:  1247
 Wyleczonych:  162
@@ -1340,7 +1340,7 @@ Zgony dziennie:  10
 --------------
 
 Numer zgloszenia:  104
-Data zgloszenia:  2020-06-15 10:00:00
+Data zgloszenia:  2020-06-15 10:00:00  (  Poniedzialek  )
 Potwierdzone zakazenia:  29788
 Zgony:  1256
 Wyleczonych:  162
@@ -1353,7 +1353,7 @@ Zgony dziennie:  9
 --------------
 
 Numer zgloszenia:  105
-Data zgloszenia:  2020-06-16 12:28:31
+Data zgloszenia:  2020-06-16 12:28:31  (  Wtorek  )
 Potwierdzone zakazenia:  30195
 Zgony:  1272
 Wyleczonych:  162
@@ -1366,7 +1366,7 @@ Zgony dziennie:  16
 --------------
 
 Numer zgloszenia:  106
-Data zgloszenia:  2020-06-17 10:52:44
+Data zgloszenia:  2020-06-17 10:52:44  (  Sroda  )
 Potwierdzone zakazenia:  30701
 Zgony:  1286
 Wyleczonych:  162
@@ -1379,7 +1379,7 @@ Zgony dziennie:  14
 --------------
 
 Numer zgloszenia:  107
-Data zgloszenia:  2020-06-18 11:37:37
+Data zgloszenia:  2020-06-18 11:37:37  (  Czwartek  )
 Potwierdzone zakazenia:  31015
 Zgony:  1316
 Wyleczonych:  162
@@ -1392,7 +1392,7 @@ Zgony dziennie:  30
 --------------
 
 Numer zgloszenia:  108
-Data zgloszenia:  2020-06-19 12:49:46
+Data zgloszenia:  2020-06-19 12:49:46  (  Piatek  )
 Potwierdzone zakazenia:  31316
 Zgony:  1334
 Wyleczonych:  162
@@ -1405,7 +1405,7 @@ Zgony dziennie:  18
 --------------
 
 Numer zgloszenia:  109
-Data zgloszenia:  2020-06-20 10:49:36
+Data zgloszenia:  2020-06-20 10:49:36  (  Sobota  )
 Potwierdzone zakazenia:  31620
 Zgony:  1346
 Wyleczonych:  162
@@ -1418,7 +1418,7 @@ Zgony dziennie:  12
 --------------
 
 Numer zgloszenia:  110
-Data zgloszenia:  2020-06-21 10:28:35
+Data zgloszenia:  2020-06-21 10:28:35  (  Niedziela  )
 Potwierdzone zakazenia:  31931
 Zgony:  1356
 Wyleczonych:  162
@@ -1431,7 +1431,7 @@ Zgony dziennie:  10
 --------------
 
 Numer zgloszenia:  111
-Data zgloszenia:  2020-06-22 11:01:38
+Data zgloszenia:  2020-06-22 11:01:38  (  Poniedzialek  )
 Potwierdzone zakazenia:  32227
 Zgony:  1359
 Wyleczonych:  162
@@ -1444,7 +1444,7 @@ Zgony dziennie:  3
 --------------
 
 Numer zgloszenia:  112
-Data zgloszenia:  2020-06-23 11:22:35
+Data zgloszenia:  2020-06-23 11:22:35  (  Wtorek  )
 Potwierdzone zakazenia:  32527
 Zgony:  1375
 Wyleczonych:  162
@@ -1457,7 +1457,7 @@ Zgony dziennie:  16
 --------------
 
 Numer zgloszenia:  113
-Data zgloszenia:  2020-06-24 12:16:37
+Data zgloszenia:  2020-06-24 12:16:37  (  Sroda  )
 Potwierdzone zakazenia:  32821
 Zgony:  1396
 Wyleczonych:  162
@@ -1470,7 +1470,7 @@ Zgony dziennie:  21
 --------------
 
 Numer zgloszenia:  114
-Data zgloszenia:  2020-06-25 13:55:37
+Data zgloszenia:  2020-06-25 13:55:37  (  Czwartek  )
 Potwierdzone zakazenia:  33119
 Zgony:  1412
 Wyleczonych:  162
@@ -1483,7 +1483,7 @@ Zgony dziennie:  16
 --------------
 
 Numer zgloszenia:  115
-Data zgloszenia:  2020-06-26 10:43:37
+Data zgloszenia:  2020-06-26 10:43:37  (  Piatek  )
 Potwierdzone zakazenia:  33395
 Zgony:  1429
 Wyleczonych:  162
@@ -1496,7 +1496,7 @@ Zgony dziennie:  17
 --------------
 
 Numer zgloszenia:  116
-Data zgloszenia:  2020-06-27 10:43:35
+Data zgloszenia:  2020-06-27 10:43:35  (  Sobota  )
 Potwierdzone zakazenia:  33714
 Zgony:  1435
 Wyleczonych:  162
@@ -1509,7 +1509,7 @@ Zgony dziennie:  6
 --------------
 
 Numer zgloszenia:  117
-Data zgloszenia:  2020-06-28 10:31:36
+Data zgloszenia:  2020-06-28 10:31:36  (  Niedziela  )
 Potwierdzone zakazenia:  33907
 Zgony:  1438
 Wyleczonych:  162
@@ -1522,7 +1522,7 @@ Zgony dziennie:  3
 --------------
 
 Numer zgloszenia:  118
-Data zgloszenia:  2020-06-29 16:01:31
+Data zgloszenia:  2020-06-29 16:01:31  (  Poniedzialek  )
 Potwierdzone zakazenia:  34154
 Zgony:  1444
 Wyleczonych:  162
@@ -1535,7 +1535,7 @@ Zgony dziennie:  6
 --------------
 
 Numer zgloszenia:  119
-Data zgloszenia:  2020-06-30 10:58:38
+Data zgloszenia:  2020-06-30 10:58:38  (  Wtorek  )
 Potwierdzone zakazenia:  34393
 Zgony:  1463
 Wyleczonych:  162
@@ -1548,7 +1548,7 @@ Zgony dziennie:  19
 --------------
 
 Numer zgloszenia:  120
-Data zgloszenia:  2020-07-01 10:34:37
+Data zgloszenia:  2020-07-01 10:34:37  (  Sroda  )
 Potwierdzone zakazenia:  34775
 Zgony:  1477
 Wyleczonych:  162
@@ -1561,7 +1561,7 @@ Zgony dziennie:  14
 --------------
 
 Numer zgloszenia:  121
-Data zgloszenia:  2020-07-02 10:34:37
+Data zgloszenia:  2020-07-02 10:34:37  (  Czwartek  )
 Potwierdzone zakazenia:  35146
 Zgony:  1492
 Wyleczonych:  162
@@ -1574,7 +1574,7 @@ Zgony dziennie:  15
 --------------
 
 Numer zgloszenia:  122
-Data zgloszenia:  2020-07-03 10:43:39
+Data zgloszenia:  2020-07-03 10:43:39  (  Piatek  )
 Potwierdzone zakazenia:  35405
 Zgony:  1507
 Wyleczonych:  162
@@ -1587,7 +1587,7 @@ Zgony dziennie:  15
 --------------
 
 Numer zgloszenia:  123
-Data zgloszenia:  2020-07-04 10:52:35
+Data zgloszenia:  2020-07-04 10:52:35  (  Sobota  )
 Potwierdzone zakazenia:  35719
 Zgony:  1512
 Wyleczonych:  162
@@ -1600,7 +1600,7 @@ Zgony dziennie:  5
 --------------
 
 Numer zgloszenia:  124
-Data zgloszenia:  2020-07-05 10:31:36
+Data zgloszenia:  2020-07-05 10:31:36  (  Niedziela  )
 Potwierdzone zakazenia:  35950
 Zgony:  1517
 Wyleczonych:  162
@@ -1613,7 +1613,7 @@ Zgony dziennie:  5
 --------------
 
 Numer zgloszenia:  125
-Data zgloszenia:  2020-07-06 10:49:43
+Data zgloszenia:  2020-07-06 10:49:43  (  Poniedzialek  )
 Potwierdzone zakazenia:  36155
 Zgony:  1521
 Wyleczonych:  162
@@ -1626,7 +1626,7 @@ Zgony dziennie:  4
 --------------
 
 Numer zgloszenia:  126
-Data zgloszenia:  2020-07-07 10:28:37
+Data zgloszenia:  2020-07-07 10:28:37  (  Wtorek  )
 Potwierdzone zakazenia:  36412
 Zgony:  1528
 Wyleczonych:  162
@@ -1639,7 +1639,7 @@ Zgony dziennie:  7
 --------------
 
 Numer zgloszenia:  127
-Data zgloszenia:  2020-07-08 11:04:41
+Data zgloszenia:  2020-07-08 11:04:41  (  Sroda  )
 Potwierdzone zakazenia:  36689
 Zgony:  1542
 Wyleczonych:  162
@@ -1652,7 +1652,7 @@ Zgony dziennie:  14
 --------------
 
 Numer zgloszenia:  128
-Data zgloszenia:  2020-07-09 11:01:36
+Data zgloszenia:  2020-07-09 11:01:36  (  Czwartek  )
 Potwierdzone zakazenia:  36951
 Zgony:  1551
 Wyleczonych:  162
@@ -1665,7 +1665,7 @@ Zgony dziennie:  9
 --------------
 
 Numer zgloszenia:  129
-Data zgloszenia:  2020-07-10 10:34:35
+Data zgloszenia:  2020-07-10 10:34:35  (  Piatek  )
 Potwierdzone zakazenia:  37216
 Zgony:  1562
 Wyleczonych:  162
@@ -1678,7 +1678,7 @@ Zgony dziennie:  11
 --------------
 
 Numer zgloszenia:  130
-Data zgloszenia:  2020-07-11 10:37:35
+Data zgloszenia:  2020-07-11 10:37:35  (  Sobota  )
 Potwierdzone zakazenia:  37521
 Zgony:  1568
 Wyleczonych:  162
@@ -1691,7 +1691,7 @@ Zgony dziennie:  6
 --------------
 
 Numer zgloszenia:  131
-Data zgloszenia:  2020-07-12 10:46:37
+Data zgloszenia:  2020-07-12 10:46:37  (  Niedziela  )
 Potwierdzone zakazenia:  37891
 Zgony:  1571
 Wyleczonych:  162
@@ -1704,7 +1704,7 @@ Zgony dziennie:  3
 --------------
 
 Numer zgloszenia:  132
-Data zgloszenia:  2020-07-13 10:40:36
+Data zgloszenia:  2020-07-13 10:40:36  (  Poniedzialek  )
 Potwierdzone zakazenia:  38190
 Zgony:  1576
 Wyleczonych:  162
@@ -1717,7 +1717,7 @@ Zgony dziennie:  5
 --------------
 
 Numer zgloszenia:  133
-Data zgloszenia:  2020-07-14 10:55:36
+Data zgloszenia:  2020-07-14 10:55:36  (  Wtorek  )
 Potwierdzone zakazenia:  38457
 Zgony:  1588
 Wyleczonych:  162
@@ -1730,7 +1730,7 @@ Zgony dziennie:  12
 --------------
 
 Numer zgloszenia:  134
-Data zgloszenia:  2020-07-15 10:13:36
+Data zgloszenia:  2020-07-15 10:13:36  (  Sroda  )
 Potwierdzone zakazenia:  38721
 Zgony:  1594
 Wyleczonych:  162
@@ -1743,7 +1743,7 @@ Zgony dziennie:  6
 --------------
 
 Numer zgloszenia:  135
-Data zgloszenia:  2020-07-16 11:13:36
+Data zgloszenia:  2020-07-16 11:13:36  (  Czwartek  )
 Potwierdzone zakazenia:  39054
 Zgony:  1605
 Wyleczonych:  162
@@ -1756,7 +1756,7 @@ Zgony dziennie:  11
 --------------
 
 Numer zgloszenia:  136
-Data zgloszenia:  2020-07-17 11:10:38
+Data zgloszenia:  2020-07-17 11:10:38  (  Piatek  )
 Potwierdzone zakazenia:  39407
 Zgony:  1612
 Wyleczonych:  162
@@ -1769,7 +1769,7 @@ Zgony dziennie:  7
 --------------
 
 Numer zgloszenia:  137
-Data zgloszenia:  2020-07-18 10:52:36
+Data zgloszenia:  2020-07-18 10:52:36  (  Sobota  )
 Potwierdzone zakazenia:  39746
 Zgony:  1618
 Wyleczonych:  162
@@ -1782,7 +1782,7 @@ Zgony dziennie:  6
 --------------
 
 Numer zgloszenia:  138
-Data zgloszenia:  2020-07-19 10:31:36
+Data zgloszenia:  2020-07-19 10:31:36  (  Niedziela  )
 Potwierdzone zakazenia:  40104
 Zgony:  1624
 Wyleczonych:  162
@@ -1795,7 +1795,7 @@ Zgony dziennie:  6
 --------------
 
 Numer zgloszenia:  139
-Data zgloszenia:  2020-07-20 10:37:34
+Data zgloszenia:  2020-07-20 10:37:34  (  Poniedzialek  )
 Potwierdzone zakazenia:  40383
 Zgony:  1627
 Wyleczonych:  162
@@ -1808,7 +1808,7 @@ Zgony dziennie:  3
 --------------
 
 Numer zgloszenia:  140
-Data zgloszenia:  2020-07-21 10:40:35
+Data zgloszenia:  2020-07-21 10:40:35  (  Wtorek  )
 Potwierdzone zakazenia:  40782
 Zgony:  1636
 Wyleczonych:  162
@@ -1821,7 +1821,7 @@ Zgony dziennie:  9
 --------------
 
 Numer zgloszenia:  141
-Data zgloszenia:  2020-07-22 10:34:36
+Data zgloszenia:  2020-07-22 10:34:36  (  Sroda  )
 Potwierdzone zakazenia:  41162
 Zgony:  1642
 Wyleczonych:  162
@@ -1834,7 +1834,7 @@ Zgony dziennie:  6
 --------------
 
 Numer zgloszenia:  142
-Data zgloszenia:  2020-07-23 10:37:36
+Data zgloszenia:  2020-07-23 10:37:36  (  Czwartek  )
 Potwierdzone zakazenia:  41580
 Zgony:  1651
 Wyleczonych:  162
@@ -1847,7 +1847,7 @@ Zgony dziennie:  9
 --------------
 
 Numer zgloszenia:  143
-Data zgloszenia:  2020-07-24 10:49:39
+Data zgloszenia:  2020-07-24 10:49:39  (  Piatek  )
 Potwierdzone zakazenia:  42038
 Zgony:  1655
 Wyleczonych:  162
@@ -1860,7 +1860,7 @@ Zgony dziennie:  4
 --------------
 
 Numer zgloszenia:  144
-Data zgloszenia:  2020-07-25 11:07:39
+Data zgloszenia:  2020-07-25 11:07:39  (  Sobota  )
 Potwierdzone zakazenia:  42622
 Zgony:  1664
 Wyleczonych:  162
@@ -1873,7 +1873,7 @@ Zgony dziennie:  9
 --------------
 
 Numer zgloszenia:  145
-Data zgloszenia:  2020-07-26 11:13:39
+Data zgloszenia:  2020-07-26 11:13:39  (  Niedziela  )
 Potwierdzone zakazenia:  43065
 Zgony:  1671
 Wyleczonych:  162
@@ -1886,7 +1886,7 @@ Zgony dziennie:  7
 --------------
 
 Numer zgloszenia:  146
-Data zgloszenia:  2020-07-27 10:22:36
+Data zgloszenia:  2020-07-27 10:22:36  (  Poniedzialek  )
 Potwierdzone zakazenia:  43402
 Zgony:  1676
 Wyleczonych:  162
@@ -1899,7 +1899,7 @@ Zgony dziennie:  5
 --------------
 
 Numer zgloszenia:  147
-Data zgloszenia:  2020-07-28 10:10:37
+Data zgloszenia:  2020-07-28 10:10:37  (  Wtorek  )
 Potwierdzone zakazenia:  43904
 Zgony:  1682
 Wyleczonych:  162
@@ -1912,7 +1912,7 @@ Zgony dziennie:  6
 --------------
 
 Numer zgloszenia:  148
-Data zgloszenia:  2020-07-29 10:10:38
+Data zgloszenia:  2020-07-29 10:10:38  (  Sroda  )
 Potwierdzone zakazenia:  44416
 Zgony:  1694
 Wyleczonych:  162
@@ -1925,7 +1925,7 @@ Zgony dziennie:  12
 --------------
 
 Numer zgloszenia:  149
-Data zgloszenia:  2020-07-30 11:37:36
+Data zgloszenia:  2020-07-30 11:37:36  (  Czwartek  )
 Potwierdzone zakazenia:  45031
 Zgony:  1709
 Wyleczonych:  162
@@ -1938,7 +1938,7 @@ Zgony dziennie:  15
 --------------
 
 Numer zgloszenia:  150
-Data zgloszenia:  2020-07-31 15:40:31
+Data zgloszenia:  2020-07-31 15:40:31  (  Piatek  )
 Potwierdzone zakazenia:  45688
 Zgony:  1716
 Wyleczonych:  162
@@ -1951,7 +1951,7 @@ Zgony dziennie:  7
 --------------
 
 Numer zgloszenia:  151
-Data zgloszenia:  2020-08-01 11:30:37
+Data zgloszenia:  2020-08-01 11:30:37  (  Sobota  )
 Potwierdzone zakazenia:  46346
 Zgony:  1721
 Wyleczonych:  162
@@ -1964,7 +1964,7 @@ Zgony dziennie:  5
 --------------
 
 Numer zgloszenia:  152
-Data zgloszenia:  2020-08-02 11:49:38
+Data zgloszenia:  2020-08-02 11:49:38  (  Niedziela  )
 Potwierdzone zakazenia:  46894
 Zgony:  1731
 Wyleczonych:  162
@@ -1977,7 +1977,7 @@ Zgony dziennie:  10
 --------------
 
 Numer zgloszenia:  153
-Data zgloszenia:  2020-08-03 11:07:37
+Data zgloszenia:  2020-08-03 11:07:37  (  Poniedzialek  )
 Potwierdzone zakazenia:  47469
 Zgony:  1732
 Wyleczonych:  162
@@ -1990,7 +1990,7 @@ Zgony dziennie:  1
 --------------
 
 Numer zgloszenia:  154
-Data zgloszenia:  2020-08-04 10:49:38
+Data zgloszenia:  2020-08-04 10:49:38  (  Wtorek  )
 Potwierdzone zakazenia:  48149
 Zgony:  1738
 Wyleczonych:  162
@@ -2003,7 +2003,7 @@ Zgony dziennie:  6
 --------------
 
 Numer zgloszenia:  155
-Data zgloszenia:  2020-08-05 11:07:42
+Data zgloszenia:  2020-08-05 11:07:42  (  Sroda  )
 Potwierdzone zakazenia:  48789
 Zgony:  1756
 Wyleczonych:  162
@@ -2016,7 +2016,7 @@ Zgony dziennie:  18
 --------------
 
 Numer zgloszenia:  156
-Data zgloszenia:  2020-08-06 10:40:45
+Data zgloszenia:  2020-08-06 10:40:45  (  Czwartek  )
 Potwierdzone zakazenia:  49515
 Zgony:  1774
 Wyleczonych:  162
@@ -2029,7 +2029,7 @@ Zgony dziennie:  18
 --------------
 
 Numer zgloszenia:  157
-Data zgloszenia:  2020-08-07 10:37:37
+Data zgloszenia:  2020-08-07 10:37:37  (  Piatek  )
 Potwierdzone zakazenia:  50324
 Zgony:  1787
 Wyleczonych:  162
@@ -2042,7 +2042,7 @@ Zgony dziennie:  13
 --------------
 
 Numer zgloszenia:  158
-Data zgloszenia:  2020-08-08 10:43:36
+Data zgloszenia:  2020-08-08 10:43:36  (  Sobota  )
 Potwierdzone zakazenia:  51167
 Zgony:  1800
 Wyleczonych:  162
@@ -2055,7 +2055,7 @@ Zgony dziennie:  13
 --------------
 
 Numer zgloszenia:  159
-Data zgloszenia:  2020-08-09 10:25:35
+Data zgloszenia:  2020-08-09 10:25:35  (  Niedziela  )
 Potwierdzone zakazenia:  51791
 Zgony:  1807
 Wyleczonych:  162
@@ -2068,7 +2068,7 @@ Zgony dziennie:  7
 --------------
 
 Numer zgloszenia:  160
-Data zgloszenia:  2020-08-10 11:13:37
+Data zgloszenia:  2020-08-10 11:13:37  (  Poniedzialek  )
 Potwierdzone zakazenia:  52410
 Zgony:  1809
 Wyleczonych:  162
@@ -2081,7 +2081,7 @@ Zgony dziennie:  2
 --------------
 
 Numer zgloszenia:  161
-Data zgloszenia:  2020-08-11 10:37:37
+Data zgloszenia:  2020-08-11 10:37:37  (  Wtorek  )
 Potwierdzone zakazenia:  52961
 Zgony:  1821
 Wyleczonych:  162
@@ -2094,7 +2094,7 @@ Zgony dziennie:  12
 --------------
 
 Numer zgloszenia:  162
-Data zgloszenia:  2020-08-12 11:13:37
+Data zgloszenia:  2020-08-12 11:13:37  (  Sroda  )
 Potwierdzone zakazenia:  53676
 Zgony:  1830
 Wyleczonych:  162
@@ -2107,7 +2107,7 @@ Zgony dziennie:  9
 --------------
 
 Numer zgloszenia:  163
-Data zgloszenia:  2020-08-13 11:04:35
+Data zgloszenia:  2020-08-13 11:04:35  (  Czwartek  )
 Potwierdzone zakazenia:  54487
 Zgony:  1844
 Wyleczonych:  162
@@ -2120,7 +2120,7 @@ Zgony dziennie:  14
 --------------
 
 Numer zgloszenia:  164
-Data zgloszenia:  2020-08-14 15:22:32
+Data zgloszenia:  2020-08-14 15:22:32  (  Piatek  )
 Potwierdzone zakazenia:  55319
 Zgony:  1858
 Wyleczonych:  162
@@ -2133,7 +2133,7 @@ Zgony dziennie:  14
 --------------
 
 Numer zgloszenia:  165
-Data zgloszenia:  2020-08-15 10:46:36
+Data zgloszenia:  2020-08-15 10:46:36  (  Sobota  )
 Potwierdzone zakazenia:  56090
 Zgony:  1869
 Wyleczonych:  162
@@ -2146,7 +2146,7 @@ Zgony dziennie:  11
 --------------
 
 Numer zgloszenia:  166
-Data zgloszenia:  2020-08-16 11:01:36
+Data zgloszenia:  2020-08-16 11:01:36  (  Niedziela  )
 Potwierdzone zakazenia:  56684
 Zgony:  1877
 Wyleczonych:  162
@@ -2159,7 +2159,7 @@ Zgony dziennie:  8
 --------------
 
 Numer zgloszenia:  167
-Data zgloszenia:  2020-08-17 10:37:37
+Data zgloszenia:  2020-08-17 10:37:37  (  Poniedzialek  )
 Potwierdzone zakazenia:  57279
 Zgony:  1885
 Wyleczonych:  162
@@ -2172,7 +2172,7 @@ Zgony dziennie:  8
 --------------
 
 Numer zgloszenia:  168
-Data zgloszenia:  2020-08-18 10:52:35
+Data zgloszenia:  2020-08-18 10:52:35  (  Wtorek  )
 Potwierdzone zakazenia:  57876
 Zgony:  1896
 Wyleczonych:  162
@@ -2185,7 +2185,7 @@ Zgony dziennie:  11
 --------------
 
 Numer zgloszenia:  169
-Data zgloszenia:  2020-08-19 12:01:38
+Data zgloszenia:  2020-08-19 12:01:38  (  Sroda  )
 Potwierdzone zakazenia:  58611
 Zgony:  1913
 Wyleczonych:  162
@@ -2198,7 +2198,7 @@ Zgony dziennie:  17
 --------------
 
 Numer zgloszenia:  170
-Data zgloszenia:  2020-08-20 10:55:35
+Data zgloszenia:  2020-08-20 10:55:35  (  Czwartek  )
 Potwierdzone zakazenia:  59378
 Zgony:  1925
 Wyleczonych:  162
@@ -2211,7 +2211,7 @@ Zgony dziennie:  12
 --------------
 
 Numer zgloszenia:  171
-Data zgloszenia:  2020-08-21 10:43:36
+Data zgloszenia:  2020-08-21 10:43:36  (  Piatek  )
 Potwierdzone zakazenia:  60281
 Zgony:  1938
 Wyleczonych:  162
@@ -2224,7 +2224,7 @@ Zgony dziennie:  13
 --------------
 
 Numer zgloszenia:  172
-Data zgloszenia:  2020-08-22 11:04:36
+Data zgloszenia:  2020-08-22 11:04:36  (  Sobota  )
 Potwierdzone zakazenia:  61181
 Zgony:  1951
 Wyleczonych:  162
@@ -2237,7 +2237,7 @@ Zgony dziennie:  13
 --------------
 
 Numer zgloszenia:  173
-Data zgloszenia:  2020-08-23 15:40:36
+Data zgloszenia:  2020-08-23 15:40:36  (  Niedziela  )
 Potwierdzone zakazenia:  61762
 Zgony:  1955
 Wyleczonych:  162
@@ -2250,7 +2250,7 @@ Zgony dziennie:  4
 --------------
 
 Numer zgloszenia:  174
-Data zgloszenia:  2020-08-24 10:10:37
+Data zgloszenia:  2020-08-24 10:10:37  (  Poniedzialek  )
 Potwierdzone zakazenia:  62310
 Zgony:  1960
 Wyleczonych:  162
@@ -2263,7 +2263,7 @@ Zgony dziennie:  5
 --------------
 
 Numer zgloszenia:  175
-Data zgloszenia:  2020-08-25 10:31:37
+Data zgloszenia:  2020-08-25 10:31:37  (  Wtorek  )
 Potwierdzone zakazenia:  63073
 Zgony:  1977
 Wyleczonych:  162
@@ -2276,7 +2276,7 @@ Zgony dziennie:  17
 --------------
 
 Numer zgloszenia:  176
-Data zgloszenia:  2020-08-26 10:37:35
+Data zgloszenia:  2020-08-26 10:37:35  (  Sroda  )
 Potwierdzone zakazenia:  63802
 Zgony:  1994
 Wyleczonych:  162
@@ -2289,7 +2289,7 @@ Zgony dziennie:  17
 --------------
 
 Numer zgloszenia:  177
-Data zgloszenia:  2020-08-27 10:46:39
+Data zgloszenia:  2020-08-27 10:46:39  (  Czwartek  )
 Potwierdzone zakazenia:  64689
 Zgony:  2010
 Wyleczonych:  162
@@ -2302,7 +2302,7 @@ Zgony dziennie:  16
 --------------
 
 Numer zgloszenia:  178
-Data zgloszenia:  2020-08-28 11:01:43
+Data zgloszenia:  2020-08-28 11:01:43  (  Piatek  )
 Potwierdzone zakazenia:  65480
 Zgony:  2018
 Wyleczonych:  162
@@ -2315,7 +2315,7 @@ Zgony dziennie:  8
 --------------
 
 Numer zgloszenia:  179
-Data zgloszenia:  2020-08-29 10:46:37
+Data zgloszenia:  2020-08-29 10:46:37  (  Sobota  )
 Potwierdzone zakazenia:  66239
 Zgony:  2032
 Wyleczonych:  162
@@ -2328,7 +2328,7 @@ Zgony dziennie:  14
 --------------
 
 Numer zgloszenia:  180
-Data zgloszenia:  2020-08-30 10:28:37
+Data zgloszenia:  2020-08-30 10:28:37  (  Niedziela  )
 Potwierdzone zakazenia:  66870
 Zgony:  2033
 Wyleczonych:  162
@@ -2341,7 +2341,7 @@ Zgony dziennie:  1
 --------------
 
 Numer zgloszenia:  181
-Data zgloszenia:  2020-08-31 10:13:38
+Data zgloszenia:  2020-08-31 10:13:38  (  Poniedzialek  )
 Potwierdzone zakazenia:  67372
 Zgony:  2039
 Wyleczonych:  162
@@ -2354,7 +2354,7 @@ Zgony dziennie:  6
 --------------
 
 Numer zgloszenia:  182
-Data zgloszenia:  2020-09-01 10:40:39
+Data zgloszenia:  2020-09-01 10:40:39  (  Wtorek  )
 Potwierdzone zakazenia:  67922
 Zgony:  2058
 Wyleczonych:  162
@@ -2367,7 +2367,7 @@ Zgony dziennie:  19
 --------------
 
 Numer zgloszenia:  183
-Data zgloszenia:  2020-09-02 13:13:37
+Data zgloszenia:  2020-09-02 13:13:37  (  Sroda  )
 Potwierdzone zakazenia:  68517
 Zgony:  2078
 Wyleczonych:  162
@@ -2380,7 +2380,7 @@ Zgony dziennie:  20
 --------------
 
 Numer zgloszenia:  184
-Data zgloszenia:  2020-09-03 10:22:36
+Data zgloszenia:  2020-09-03 10:22:36  (  Czwartek  )
 Potwierdzone zakazenia:  69129
 Zgony:  2092
 Wyleczonych:  162
@@ -2393,7 +2393,7 @@ Zgony dziennie:  14
 --------------
 
 Numer zgloszenia:  185
-Data zgloszenia:  2020-09-04 11:12:04
+Data zgloszenia:  2020-09-04 11:12:04  (  Piatek  )
 Potwierdzone zakazenia:  69820
 Zgony:  2100
 Wyleczonych:  162
@@ -2406,7 +2406,7 @@ Zgony dziennie:  8
 --------------
 
 Numer zgloszenia:  186
-Data zgloszenia:  2020-09-05 11:21:10
+Data zgloszenia:  2020-09-05 11:21:10  (  Sobota  )
 Potwierdzone zakazenia:  70387
 Zgony:  2113
 Wyleczonych:  162
@@ -2419,7 +2419,7 @@ Zgony dziennie:  13
 --------------
 
 Numer zgloszenia:  187
-Data zgloszenia:  2020-09-06 10:28:37
+Data zgloszenia:  2020-09-06 10:28:37  (  Niedziela  )
 Potwierdzone zakazenia:  70824
 Zgony:  2120
 Wyleczonych:  162
@@ -2432,7 +2432,7 @@ Zgony dziennie:  7
 --------------
 
 Numer zgloszenia:  188
-Data zgloszenia:  2020-09-07 10:31:36
+Data zgloszenia:  2020-09-07 10:31:36  (  Poniedzialek  )
 Potwierdzone zakazenia:  71126
 Zgony:  2124
 Wyleczonych:  162
@@ -2445,7 +2445,7 @@ Zgony dziennie:  4
 --------------
 
 Numer zgloszenia:  189
-Data zgloszenia:  2020-09-08 11:16:34
+Data zgloszenia:  2020-09-08 11:16:34  (  Wtorek  )
 Potwierdzone zakazenia:  71526
 Zgony:  2136
 Wyleczonych:  162
@@ -2458,7 +2458,7 @@ Zgony dziennie:  12
 --------------
 
 Numer zgloszenia:  190
-Data zgloszenia:  2020-09-09 10:25:36
+Data zgloszenia:  2020-09-09 10:25:36  (  Sroda  )
 Potwierdzone zakazenia:  71947
 Zgony:  2147
 Wyleczonych:  162
@@ -2471,7 +2471,7 @@ Zgony dziennie:  11
 --------------
 
 Numer zgloszenia:  191
-Data zgloszenia:  2020-09-10 10:52:36
+Data zgloszenia:  2020-09-10 10:52:36  (  Czwartek  )
 Potwierdzone zakazenia:  72453
 Zgony:  2159
 Wyleczonych:  162
@@ -2484,7 +2484,7 @@ Zgony dziennie:  12
 --------------
 
 Numer zgloszenia:  192
-Data zgloszenia:  2020-09-11 10:43:35
+Data zgloszenia:  2020-09-11 10:43:35  (  Piatek  )
 Potwierdzone zakazenia:  73047
 Zgony:  2169
 Wyleczonych:  162
@@ -2497,7 +2497,7 @@ Zgony dziennie:  10
 --------------
 
 Numer zgloszenia:  193
-Data zgloszenia:  2020-09-12 10:22:39
+Data zgloszenia:  2020-09-12 10:22:39  (  Sobota  )
 Potwierdzone zakazenia:  73650
 Zgony:  2182
 Wyleczonych:  162
@@ -2510,7 +2510,7 @@ Zgony dziennie:  13
 --------------
 
 Numer zgloszenia:  194
-Data zgloszenia:  2020-09-13 10:22:35
+Data zgloszenia:  2020-09-13 10:22:35  (  Niedziela  )
 Potwierdzone zakazenia:  74152
 Zgony:  2188
 Wyleczonych:  162
@@ -2523,7 +2523,7 @@ Zgony dziennie:  6
 --------------
 
 Numer zgloszenia:  195
-Data zgloszenia:  2020-09-14 10:28:36
+Data zgloszenia:  2020-09-14 10:28:36  (  Poniedzialek  )
 Potwierdzone zakazenia:  74529
 Zgony:  2203
 Wyleczonych:  162
@@ -2536,7 +2536,7 @@ Zgony dziennie:  15
 --------------
 
 Numer zgloszenia:  196
-Data zgloszenia:  2020-09-15 10:31:37
+Data zgloszenia:  2020-09-15 10:31:37  (  Wtorek  )
 Potwierdzone zakazenia:  75134
 Zgony:  2227
 Wyleczonych:  162
@@ -2549,7 +2549,7 @@ Zgony dziennie:  24
 --------------
 
 Numer zgloszenia:  197
-Data zgloszenia:  2020-09-16 10:22:00
+Data zgloszenia:  2020-09-16 10:22:00  (  Sroda  )
 Potwierdzone zakazenia:  75734
 Zgony:  2237
 Wyleczonych:  162
@@ -2562,7 +2562,7 @@ Zgony dziennie:  10
 --------------
 
 Numer zgloszenia:  198
-Data zgloszenia:  2020-09-17 10:25:00
+Data zgloszenia:  2020-09-17 10:25:00  (  Czwartek  )
 Potwierdzone zakazenia:  76571
 Zgony:  2253
 Wyleczonych:  162
@@ -2575,7 +2575,7 @@ Zgony dziennie:  16
 --------------
 
 Numer zgloszenia:  199
-Data zgloszenia:  2020-09-18 10:30:36
+Data zgloszenia:  2020-09-18 10:30:36  (  Piatek  )
 Potwierdzone zakazenia:  77328
 Zgony:  2270
 Wyleczonych:  162
@@ -2588,7 +2588,7 @@ Zgony dziennie:  17
 --------------
 
 Numer zgloszenia:  200
-Data zgloszenia:  2020-09-19 10:37:36
+Data zgloszenia:  2020-09-19 10:37:36  (  Sobota  )
 Potwierdzone zakazenia:  78330
 Zgony:  2282
 Wyleczonych:  587
@@ -2601,7 +2601,7 @@ Zgony dziennie:  12
 --------------
 
 Numer zgloszenia:  201
-Data zgloszenia:  2020-09-20 10:52:37
+Data zgloszenia:  2020-09-20 10:52:37  (  Niedziela  )
 Potwierdzone zakazenia:  79240
 Zgony:  2293
 Wyleczonych:  587
@@ -2614,7 +2614,7 @@ Zgony dziennie:  11
 --------------
 
 Numer zgloszenia:  202
-Data zgloszenia:  2020-09-21 10:19:38
+Data zgloszenia:  2020-09-21 10:19:38  (  Poniedzialek  )
 Potwierdzone zakazenia:  79988
 Zgony:  2298
 Wyleczonych:  587
@@ -2627,7 +2627,7 @@ Zgony dziennie:  5
 --------------
 
 Numer zgloszenia:  203
-Data zgloszenia:  2020-09-22 10:34:38
+Data zgloszenia:  2020-09-22 10:34:38  (  Wtorek  )
 Potwierdzone zakazenia:  80699
 Zgony:  2316
 Wyleczonych:  587
@@ -2640,7 +2640,7 @@ Zgony dziennie:  18
 --------------
 
 Numer zgloszenia:  204
-Data zgloszenia:  2020-09-23 11:04:37
+Data zgloszenia:  2020-09-23 11:04:37  (  Sroda  )
 Potwierdzone zakazenia:  81673
 Zgony:  2344
 Wyleczonych:  587
@@ -2653,7 +2653,7 @@ Zgony dziennie:  28
 --------------
 
 Numer zgloszenia:  205
-Data zgloszenia:  2020-09-24 11:13:36
+Data zgloszenia:  2020-09-24 11:13:36  (  Czwartek  )
 Potwierdzone zakazenia:  82809
 Zgony:  2369
 Wyleczonych:  587
@@ -2666,7 +2666,7 @@ Zgony dziennie:  25
 --------------
 
 Numer zgloszenia:  206
-Data zgloszenia:  2020-09-25 10:34:36
+Data zgloszenia:  2020-09-25 10:34:36  (  Piatek  )
 Potwierdzone zakazenia:  84396
 Zgony:  2392
 Wyleczonych:  587
@@ -2679,7 +2679,7 @@ Zgony dziennie:  23
 --------------
 
 Numer zgloszenia:  207
-Data zgloszenia:  2020-09-26 10:52:40
+Data zgloszenia:  2020-09-26 10:52:40  (  Sobota  )
 Potwierdzone zakazenia:  85980
 Zgony:  2424
 Wyleczonych:  587
@@ -2692,7 +2692,7 @@ Zgony dziennie:  32
 --------------
 
 Numer zgloszenia:  208
-Data zgloszenia:  2020-09-27 11:04:35
+Data zgloszenia:  2020-09-27 11:04:35  (  Niedziela  )
 Potwierdzone zakazenia:  87330
 Zgony:  2432
 Wyleczonych:  587
@@ -2705,7 +2705,7 @@ Zgony dziennie:  8
 --------------
 
 Numer zgloszenia:  209
-Data zgloszenia:  2020-09-28 10:34:35
+Data zgloszenia:  2020-09-28 10:34:35  (  Poniedzialek  )
 Potwierdzone zakazenia:  88636
 Zgony:  2447
 Wyleczonych:  587
@@ -2718,7 +2718,7 @@ Zgony dziennie:  15
 --------------
 
 Numer zgloszenia:  210
-Data zgloszenia:  2020-09-29 10:58:37
+Data zgloszenia:  2020-09-29 10:58:37  (  Wtorek  )
 Potwierdzone zakazenia:  89962
 Zgony:  2483
 Wyleczonych:  587
@@ -2731,7 +2731,7 @@ Zgony dziennie:  36
 --------------
 
 Numer zgloszenia:  211
-Data zgloszenia:  2020-09-30 10:43:35
+Data zgloszenia:  2020-09-30 10:43:35  (  Sroda  )
 Potwierdzone zakazenia:  91514
 Zgony:  2513
 Wyleczonych:  587
@@ -2744,7 +2744,7 @@ Zgony dziennie:  30
 --------------
 
 Numer zgloszenia:  212
-Data zgloszenia:  2020-10-01 11:34:36
+Data zgloszenia:  2020-10-01 11:34:36  (  Czwartek  )
 Potwierdzone zakazenia:  93481
 Zgony:  2543
 Wyleczonych:  587
@@ -2757,7 +2757,7 @@ Zgony dziennie:  30
 --------------
 
 Numer zgloszenia:  213
-Data zgloszenia:  2020-10-02 10:25:37
+Data zgloszenia:  2020-10-02 10:25:37  (  Piatek  )
 Potwierdzone zakazenia:  95773
 Zgony:  2570
 Wyleczonych:  587
@@ -2770,7 +2770,7 @@ Zgony dziennie:  27
 --------------
 
 Numer zgloszenia:  214
-Data zgloszenia:  2020-10-03 10:23:51
+Data zgloszenia:  2020-10-03 10:23:51  (  Sobota  )
 Potwierdzone zakazenia:  98140
 Zgony:  2604
 Wyleczonych:  587
@@ -2783,7 +2783,7 @@ Zgony dziennie:  34
 --------------
 
 Numer zgloszenia:  215
-Data zgloszenia:  2020-10-04 10:28:37
+Data zgloszenia:  2020-10-04 10:28:37  (  Niedziela  )
 Potwierdzone zakazenia:  100074
 Zgony:  2630
 Wyleczonych:  587
@@ -2796,7 +2796,7 @@ Zgony dziennie:  26
 --------------
 
 Numer zgloszenia:  216
-Data zgloszenia:  2020-10-05 10:31:39
+Data zgloszenia:  2020-10-05 10:31:39  (  Poniedzialek  )
 Potwierdzone zakazenia:  102080
 Zgony:  2659
 Wyleczonych:  587
@@ -2809,7 +2809,7 @@ Zgony dziennie:  29
 --------------
 
 Numer zgloszenia:  217
-Data zgloszenia:  2020-10-06 11:40:40
+Data zgloszenia:  2020-10-06 11:40:40  (  Wtorek  )
 Potwierdzone zakazenia:  104316
 Zgony:  2717
 Wyleczonych:  587
@@ -2822,7 +2822,7 @@ Zgony dziennie:  58
 --------------
 
 Numer zgloszenia:  218
-Data zgloszenia:  2020-10-07 11:34:40
+Data zgloszenia:  2020-10-07 11:34:40  (  Sroda  )
 Potwierdzone zakazenia:  107319
 Zgony:  2792
 Wyleczonych:  587
@@ -2835,7 +2835,7 @@ Zgony dziennie:  75
 --------------
 
 Numer zgloszenia:  219
-Data zgloszenia:  2020-10-08 12:07:40
+Data zgloszenia:  2020-10-08 12:07:40  (  Czwartek  )
 Potwierdzone zakazenia:  111599
 Zgony:  2867
 Wyleczonych:  587
@@ -2848,7 +2848,7 @@ Zgony dziennie:  75
 --------------
 
 Numer zgloszenia:  220
-Data zgloszenia:  2020-10-09 11:22:40
+Data zgloszenia:  2020-10-09 11:22:40  (  Piatek  )
 Potwierdzone zakazenia:  116338
 Zgony:  2919
 Wyleczonych:  587
@@ -2861,7 +2861,7 @@ Zgony dziennie:  52
 --------------
 
 Numer zgloszenia:  221
-Data zgloszenia:  2020-10-10 10:43:37
+Data zgloszenia:  2020-10-10 10:43:37  (  Sobota  )
 Potwierdzone zakazenia:  121638
 Zgony:  2972
 Wyleczonych:  587
@@ -2874,7 +2874,7 @@ Zgony dziennie:  53
 --------------
 
 Numer zgloszenia:  222
-Data zgloszenia:  2020-10-11 12:19:38
+Data zgloszenia:  2020-10-11 12:19:38  (  Niedziela  )
 Potwierdzone zakazenia:  125816
 Zgony:  3004
 Wyleczonych:  587
@@ -2887,7 +2887,7 @@ Zgony dziennie:  32
 --------------
 
 Numer zgloszenia:  223
-Data zgloszenia:  2020-10-12 11:07:40
+Data zgloszenia:  2020-10-12 11:07:40  (  Poniedzialek  )
 Potwierdzone zakazenia:  130210
 Zgony:  3039
 Wyleczonych:  587
@@ -2900,7 +2900,7 @@ Zgony dziennie:  35
 --------------
 
 Numer zgloszenia:  224
-Data zgloszenia:  2020-10-13 11:16:53
+Data zgloszenia:  2020-10-13 11:16:53  (  Wtorek  )
 Potwierdzone zakazenia:  135278
 Zgony:  3101
 Wyleczonych:  587
@@ -2913,7 +2913,7 @@ Zgony dziennie:  62
 --------------
 
 Numer zgloszenia:  225
-Data zgloszenia:  2020-10-14 10:37:38
+Data zgloszenia:  2020-10-14 10:37:38  (  Sroda  )
 Potwierdzone zakazenia:  141804
 Zgony:  3217
 Wyleczonych:  587
@@ -2925,2926 +2925,14 @@ Zgony dziennie:  116
 
 --------------
 
-Numer zgloszenia:  1
-Data zgloszenia:  2020-03-04 01:00:00
-Potwierdzone zakazenia:  1
-Zgony:  0
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  1
-Zgony dziennie:  0
-
---------------
-
---------------
-
-Numer zgloszenia:  2
-Data zgloszenia:  2020-03-05 01:00:00
-Potwierdzone zakazenia:  1
-Zgony:  0
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  0
-Zgony dziennie:  0
-
---------------
-
---------------
-
-Numer zgloszenia:  3
-Data zgloszenia:  2020-03-06 01:00:00
-Potwierdzone zakazenia:  5
-Zgony:  0
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  4
-Zgony dziennie:  0
-
---------------
-
---------------
-
-Numer zgloszenia:  4
-Data zgloszenia:  2020-03-07 01:00:00
-Potwierdzone zakazenia:  6
-Zgony:  0
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  1
-Zgony dziennie:  0
-
---------------
-
---------------
-
-Numer zgloszenia:  5
-Data zgloszenia:  2020-03-08 01:00:00
-Potwierdzone zakazenia:  11
-Zgony:  0
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  5
-Zgony dziennie:  0
-
---------------
-
---------------
-
-Numer zgloszenia:  6
-Data zgloszenia:  2020-03-09 01:00:00
-Potwierdzone zakazenia:  17
-Zgony:  0
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  6
-Zgony dziennie:  0
-
---------------
-
---------------
-
-Numer zgloszenia:  7
-Data zgloszenia:  2020-03-10 01:00:00
-Potwierdzone zakazenia:  22
-Zgony:  0
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  5
-Zgony dziennie:  0
-
---------------
-
---------------
-
-Numer zgloszenia:  8
-Data zgloszenia:  2020-03-11 17:45:00
-Potwierdzone zakazenia:  31
-Zgony:  0
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  9
-Zgony dziennie:  0
-
---------------
-
---------------
-
-Numer zgloszenia:  9
-Data zgloszenia:  2020-03-12 15:00:00
-Potwierdzone zakazenia:  51
-Zgony:  1
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  20
-Zgony dziennie:  1
-
---------------
-
---------------
-
-Numer zgloszenia:  10
-Data zgloszenia:  2020-03-13 07:00:00
-Potwierdzone zakazenia:  68
-Zgony:  2
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  17
-Zgony dziennie:  1
-
---------------
-
---------------
-
-Numer zgloszenia:  11
-Data zgloszenia:  2020-03-14 19:30:00
-Potwierdzone zakazenia:  104
-Zgony:  3
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  36
-Zgony dziennie:  1
-
---------------
-
---------------
-
-Numer zgloszenia:  12
-Data zgloszenia:  2020-03-15 15:15:00
-Potwierdzone zakazenia:  125
-Zgony:  3
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  21
-Zgony dziennie:  0
-
---------------
-
---------------
-
-Numer zgloszenia:  13
-Data zgloszenia:  2020-03-16 21:00:00
-Potwierdzone zakazenia:  177
-Zgony:  4
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  52
-Zgony dziennie:  1
-
---------------
-
---------------
-
-Numer zgloszenia:  14
-Data zgloszenia:  2020-03-17 15:00:00
-Potwierdzone zakazenia:  238
-Zgony:  5
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  61
-Zgony dziennie:  1
-
---------------
-
---------------
-
-Numer zgloszenia:  15
-Data zgloszenia:  2020-03-18 19:00:00
-Potwierdzone zakazenia:  287
-Zgony:  5
-Wyleczonych:  1
-
-Przyrost dzienny zakazen:  49
-Zgony dziennie:  0
-
---------------
-
---------------
-
-Numer zgloszenia:  16
-Data zgloszenia:  2020-03-19 19:00:00
-Potwierdzone zakazenia:  355
-Zgony:  5
-Wyleczonych:  1
-
-Przyrost dzienny zakazen:  68
-Zgony dziennie:  0
-
---------------
-
---------------
-
-Numer zgloszenia:  17
-Data zgloszenia:  2020-03-20 21:01:47
-Potwierdzone zakazenia:  425
-Zgony:  5
-Wyleczonych:  1
-
-Przyrost dzienny zakazen:  70
-Zgony dziennie:  0
-
---------------
-
---------------
-
-Numer zgloszenia:  18
-Data zgloszenia:  2020-03-21 20:58:10
-Potwierdzone zakazenia:  536
-Zgony:  5
-Wyleczonych:  1
-
-Przyrost dzienny zakazen:  111
-Zgony dziennie:  0
-
---------------
-
---------------
-
-Numer zgloszenia:  19
-Data zgloszenia:  2020-03-22 21:13:30
-Potwierdzone zakazenia:  634
-Zgony:  7
-Wyleczonych:  1
-
-Przyrost dzienny zakazen:  98
-Zgony dziennie:  2
-
---------------
-
---------------
-
-Numer zgloszenia:  20
-Data zgloszenia:  2020-03-23 20:37:42
-Potwierdzone zakazenia:  749
-Zgony:  8
-Wyleczonych:  1
-
-Przyrost dzienny zakazen:  115
-Zgony dziennie:  1
-
---------------
-
---------------
-
-Numer zgloszenia:  21
-Data zgloszenia:  2020-03-24 21:40:31
-Potwierdzone zakazenia:  901
-Zgony:  10
-Wyleczonych:  1
-
-Przyrost dzienny zakazen:  152
-Zgony dziennie:  2
-
---------------
-
---------------
-
-Numer zgloszenia:  22
-Data zgloszenia:  2020-03-25 20:43:35
-Potwierdzone zakazenia:  1051
-Zgony:  14
-Wyleczonych:  2
-
-Przyrost dzienny zakazen:  150
-Zgony dziennie:  4
-
---------------
-
---------------
-
-Numer zgloszenia:  23
-Data zgloszenia:  2020-03-26 21:10:34
-Potwierdzone zakazenia:  1221
-Zgony:  16
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  170
-Zgony dziennie:  2
-
---------------
-
---------------
-
-Numer zgloszenia:  24
-Data zgloszenia:  2020-03-27 20:51:36
-Potwierdzone zakazenia:  1389
-Zgony:  16
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  168
-Zgony dziennie:  0
-
---------------
-
---------------
-
-Numer zgloszenia:  25
-Data zgloszenia:  2020-03-28 20:15:54
-Potwierdzone zakazenia:  1638
-Zgony:  18
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  249
-Zgony dziennie:  2
-
---------------
-
---------------
-
-Numer zgloszenia:  26
-Data zgloszenia:  2020-03-29 21:30:43
-Potwierdzone zakazenia:  1862
-Zgony:  22
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  224
-Zgony dziennie:  4
-
---------------
-
---------------
-
-Numer zgloszenia:  27
-Data zgloszenia:  2020-03-30 20:15:36
-Potwierdzone zakazenia:  2055
-Zgony:  31
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  193
-Zgony dziennie:  9
-
---------------
-
---------------
-
-Numer zgloszenia:  28
-Data zgloszenia:  2020-03-31 22:56:54
-Potwierdzone zakazenia:  2311
-Zgony:  33
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  256
-Zgony dziennie:  2
-
---------------
-
---------------
-
-Numer zgloszenia:  29
-Data zgloszenia:  2020-04-01 21:41:39
-Potwierdzone zakazenia:  2554
-Zgony:  43
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  243
-Zgony dziennie:  10
-
---------------
-
---------------
-
-Numer zgloszenia:  30
-Data zgloszenia:  2020-04-02 21:37:36
-Potwierdzone zakazenia:  2946
-Zgony:  57
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  392
-Zgony dziennie:  14
-
---------------
-
---------------
-
-Numer zgloszenia:  31
-Data zgloszenia:  2020-04-03 23:06:43
-Potwierdzone zakazenia:  3383
-Zgony:  71
-Wyleczonych:  0
-
-Przyrost dzienny zakazen:  437
-Zgony dziennie:  14
-
---------------
-
---------------
-
-Numer zgloszenia:  32
-Data zgloszenia:  2020-04-04 17:54:36
-Potwierdzone zakazenia:  3627
-Zgony:  79
-Wyleczonych:  114
-
-Przyrost dzienny zakazen:  244
-Zgony dziennie:  8
-
---------------
-
---------------
-
-Numer zgloszenia:  33
-Data zgloszenia:  2020-04-05 17:51:49
-Potwierdzone zakazenia:  4102
-Zgony:  94
-Wyleczonych:  134
-
-Przyrost dzienny zakazen:  475
-Zgony dziennie:  15
-
---------------
-
---------------
-
-Numer zgloszenia:  34
-Data zgloszenia:  2020-04-06 17:54:40
-Potwierdzone zakazenia:  4413
-Zgony:  107
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  311
-Zgony dziennie:  13
-
---------------
-
---------------
-
-Numer zgloszenia:  35
-Data zgloszenia:  2020-04-07 19:18:34
-Potwierdzone zakazenia:  4848
-Zgony:  129
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  435
-Zgony dziennie:  22
-
---------------
-
---------------
-
-Numer zgloszenia:  36
-Data zgloszenia:  2020-04-08 18:39:36
-Potwierdzone zakazenia:  5205
-Zgony:  159
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  357
-Zgony dziennie:  30
-
---------------
-
---------------
-
-Numer zgloszenia:  37
-Data zgloszenia:  2020-04-09 17:42:36
-Potwierdzone zakazenia:  5575
-Zgony:  174
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  370
-Zgony dziennie:  15
-
---------------
-
---------------
-
-Numer zgloszenia:  38
-Data zgloszenia:  2020-04-10 17:21:35
-Potwierdzone zakazenia:  5955
-Zgony:  181
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  380
-Zgony dziennie:  7
-
---------------
-
---------------
-
-Numer zgloszenia:  39
-Data zgloszenia:  2020-04-11 17:54:40
-Potwierdzone zakazenia:  6356
-Zgony:  208
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  401
-Zgony dziennie:  27
-
---------------
-
---------------
-
-Numer zgloszenia:  40
-Data zgloszenia:  2020-04-12 17:24:35
-Potwierdzone zakazenia:  6674
-Zgony:  232
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  318
-Zgony dziennie:  24
-
---------------
-
---------------
-
-Numer zgloszenia:  41
-Data zgloszenia:  2020-04-13 17:21:37
-Potwierdzone zakazenia:  6934
-Zgony:  245
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  260
-Zgony dziennie:  13
-
---------------
-
---------------
-
-Numer zgloszenia:  42
-Data zgloszenia:  2020-04-14 18:27:36
-Potwierdzone zakazenia:  7202
-Zgony:  263
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  268
-Zgony dziennie:  18
-
---------------
-
---------------
-
-Numer zgloszenia:  43
-Data zgloszenia:  2020-04-15 18:00:37
-Potwierdzone zakazenia:  7582
-Zgony:  286
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  380
-Zgony dziennie:  23
-
---------------
-
---------------
-
-Numer zgloszenia:  44
-Data zgloszenia:  2020-04-16 17:59:36
-Potwierdzone zakazenia:  7918
-Zgony:  314
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  336
-Zgony dziennie:  28
-
---------------
-
---------------
-
-Numer zgloszenia:  45
-Data zgloszenia:  2020-04-17 18:11:35
-Potwierdzone zakazenia:  8379
-Zgony:  332
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  461
-Zgony dziennie:  18
-
---------------
-
---------------
-
-Numer zgloszenia:  46
-Data zgloszenia:  2020-04-18 17:50:37
-Potwierdzone zakazenia:  8742
-Zgony:  347
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  363
-Zgony dziennie:  15
-
---------------
-
---------------
-
-Numer zgloszenia:  47
-Data zgloszenia:  2020-04-19 21:38:36
-Potwierdzone zakazenia:  9287
-Zgony:  360
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  545
-Zgony dziennie:  13
-
---------------
-
---------------
-
-Numer zgloszenia:  48
-Data zgloszenia:  2020-04-20 18:20:36
-Potwierdzone zakazenia:  9593
-Zgony:  380
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  306
-Zgony dziennie:  20
-
---------------
-
---------------
-
-Numer zgloszenia:  49
-Data zgloszenia:  2020-04-21 18:20:36
-Potwierdzone zakazenia:  9856
-Zgony:  401
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  263
-Zgony dziennie:  21
-
---------------
-
---------------
-
-Numer zgloszenia:  50
-Data zgloszenia:  2020-04-22 17:50:36
-Potwierdzone zakazenia:  10169
-Zgony:  426
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  313
-Zgony dziennie:  25
-
---------------
-
---------------
-
-Numer zgloszenia:  51
-Data zgloszenia:  2020-04-23 18:32:35
-Potwierdzone zakazenia:  10511
-Zgony:  454
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  342
-Zgony dziennie:  28
-
---------------
-
---------------
-
-Numer zgloszenia:  52
-Data zgloszenia:  2020-04-24 19:05:35
-Potwierdzone zakazenia:  10892
-Zgony:  494
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  381
-Zgony dziennie:  40
-
---------------
-
---------------
-
-Numer zgloszenia:  53
-Data zgloszenia:  2020-04-25 17:47:35
-Potwierdzone zakazenia:  11273
-Zgony:  524
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  381
-Zgony dziennie:  30
-
---------------
-
---------------
-
-Numer zgloszenia:  54
-Data zgloszenia:  2020-04-26 17:50:35
-Potwierdzone zakazenia:  11617
-Zgony:  535
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  344
-Zgony dziennie:  11
-
---------------
-
---------------
-
-Numer zgloszenia:  55
-Data zgloszenia:  2020-04-27 18:41:35
-Potwierdzone zakazenia:  11902
-Zgony:  562
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  285
-Zgony dziennie:  27
-
---------------
-
---------------
-
-Numer zgloszenia:  56
-Data zgloszenia:  2020-04-28 18:08:35
-Potwierdzone zakazenia:  12218
-Zgony:  596
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  316
-Zgony dziennie:  34
-
---------------
-
---------------
-
-Numer zgloszenia:  57
-Data zgloszenia:  2020-04-29 18:14:34
-Potwierdzone zakazenia:  12640
-Zgony:  624
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  422
-Zgony dziennie:  28
-
---------------
-
---------------
-
-Numer zgloszenia:  58
-Data zgloszenia:  2020-04-30 18:14:41
-Potwierdzone zakazenia:  12877
-Zgony:  644
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  237
-Zgony dziennie:  20
-
---------------
-
---------------
-
-Numer zgloszenia:  59
-Data zgloszenia:  2020-05-01 13:38:36
-Potwierdzone zakazenia:  13105
-Zgony:  651
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  228
-Zgony dziennie:  7
-
---------------
-
---------------
-
-Numer zgloszenia:  60
-Data zgloszenia:  2020-05-02 13:38:45
-Potwierdzone zakazenia:  13375
-Zgony:  664
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  270
-Zgony dziennie:  13
-
---------------
-
---------------
-
-Numer zgloszenia:  61
-Data zgloszenia:  2020-05-03 13:14:38
-Potwierdzone zakazenia:  13693
-Zgony:  678
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  318
-Zgony dziennie:  14
-
---------------
-
---------------
-
-Numer zgloszenia:  62
-Data zgloszenia:  2020-05-04 18:05:35
-Potwierdzone zakazenia:  14006
-Zgony:  698
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  313
-Zgony dziennie:  20
-
---------------
-
---------------
-
-Numer zgloszenia:  63
-Data zgloszenia:  2020-05-05 17:53:37
-Potwierdzone zakazenia:  14431
-Zgony:  716
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  425
-Zgony dziennie:  18
-
---------------
-
---------------
-
-Numer zgloszenia:  64
-Data zgloszenia:  2020-05-06 17:53:42
-Potwierdzone zakazenia:  14740
-Zgony:  733
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  309
-Zgony dziennie:  17
-
---------------
-
---------------
-
-Numer zgloszenia:  65
-Data zgloszenia:  2020-05-07 18:01:38
-Potwierdzone zakazenia:  15047
-Zgony:  755
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  307
-Zgony dziennie:  22
-
---------------
-
---------------
-
-Numer zgloszenia:  66
-Data zgloszenia:  2020-05-08 18:04:45
-Potwierdzone zakazenia:  15366
-Zgony:  776
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  319
-Zgony dziennie:  21
-
---------------
-
---------------
-
-Numer zgloszenia:  67
-Data zgloszenia:  2020-05-09 17:52:33
-Potwierdzone zakazenia:  15651
-Zgony:  785
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  285
-Zgony dziennie:  9
-
---------------
-
---------------
-
-Numer zgloszenia:  68
-Data zgloszenia:  2020-05-10 17:58:34
-Potwierdzone zakazenia:  15996
-Zgony:  800
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  345
-Zgony dziennie:  15
-
---------------
-
---------------
-
-Numer zgloszenia:  69
-Data zgloszenia:  2020-05-11 17:37:35
-Potwierdzone zakazenia:  16326
-Zgony:  811
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  330
-Zgony dziennie:  11
-
---------------
-
---------------
-
-Numer zgloszenia:  70
-Data zgloszenia:  2020-05-12 18:25:35
-Potwierdzone zakazenia:  16921
-Zgony:  839
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  595
-Zgony dziennie:  28
-
---------------
-
---------------
-
-Numer zgloszenia:  71
-Data zgloszenia:  2020-05-13 19:01:37
-Potwierdzone zakazenia:  17204
-Zgony:  861
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  283
-Zgony dziennie:  22
-
---------------
-
---------------
-
-Numer zgloszenia:  72
-Data zgloszenia:  2020-05-14 17:43:37
-Potwierdzone zakazenia:  17615
-Zgony:  883
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  411
-Zgony dziennie:  22
-
---------------
-
---------------
-
-Numer zgloszenia:  73
-Data zgloszenia:  2020-05-15 18:31:35
-Potwierdzone zakazenia:  18016
-Zgony:  907
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  401
-Zgony dziennie:  24
-
---------------
-
---------------
-
-Numer zgloszenia:  74
-Data zgloszenia:  2020-05-16 18:19:35
-Potwierdzone zakazenia:  18257
-Zgony:  915
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  241
-Zgony dziennie:  8
-
---------------
-
---------------
-
-Numer zgloszenia:  75
-Data zgloszenia:  2020-05-17 17:43:35
-Potwierdzone zakazenia:  18529
-Zgony:  925
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  272
-Zgony dziennie:  10
-
---------------
-
---------------
-
-Numer zgloszenia:  76
-Data zgloszenia:  2020-05-18 17:52:35
-Potwierdzone zakazenia:  18885
-Zgony:  936
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  356
-Zgony dziennie:  11
-
---------------
-
---------------
-
-Numer zgloszenia:  77
-Data zgloszenia:  2020-05-19 18:28:34
-Potwierdzone zakazenia:  19268
-Zgony:  948
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  383
-Zgony dziennie:  12
-
---------------
-
---------------
-
-Numer zgloszenia:  78
-Data zgloszenia:  2020-05-20 17:58:33
-Potwierdzone zakazenia:  19739
-Zgony:  962
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  471
-Zgony dziennie:  14
-
---------------
-
---------------
-
-Numer zgloszenia:  79
-Data zgloszenia:  2020-05-21 17:43:36
-Potwierdzone zakazenia:  20143
-Zgony:  972
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  404
-Zgony dziennie:  10
-
---------------
-
---------------
-
-Numer zgloszenia:  80
-Data zgloszenia:  2020-05-22 17:55:35
-Potwierdzone zakazenia:  20619
-Zgony:  982
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  476
-Zgony dziennie:  10
-
---------------
-
---------------
-
-Numer zgloszenia:  81
-Data zgloszenia:  2020-05-23 18:37:36
-Potwierdzone zakazenia:  20931
-Zgony:  993
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  312
-Zgony dziennie:  11
-
---------------
-
---------------
-
-Numer zgloszenia:  82
-Data zgloszenia:  2020-05-24 18:25:34
-Potwierdzone zakazenia:  21326
-Zgony:  996
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  395
-Zgony dziennie:  3
-
---------------
-
---------------
-
-Numer zgloszenia:  83
-Data zgloszenia:  2020-05-25 18:01:35
-Potwierdzone zakazenia:  21631
-Zgony:  1007
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  305
-Zgony dziennie:  11
-
---------------
-
---------------
-
-Numer zgloszenia:  84
-Data zgloszenia:  2020-05-26 17:31:34
-Potwierdzone zakazenia:  22074
-Zgony:  1024
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  443
-Zgony dziennie:  17
-
---------------
-
---------------
-
-Numer zgloszenia:  85
-Data zgloszenia:  2020-05-27 17:40:35
-Potwierdzone zakazenia:  22473
-Zgony:  1028
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  399
-Zgony dziennie:  4
-
---------------
-
---------------
-
-Numer zgloszenia:  86
-Data zgloszenia:  2020-05-28 17:37:35
-Potwierdzone zakazenia:  22825
-Zgony:  1038
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  352
-Zgony dziennie:  10
-
---------------
-
---------------
-
-Numer zgloszenia:  87
-Data zgloszenia:  2020-05-29 17:37:35
-Potwierdzone zakazenia:  23155
-Zgony:  1051
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  330
-Zgony dziennie:  13
-
---------------
-
---------------
-
-Numer zgloszenia:  88
-Data zgloszenia:  2020-05-30 17:43:34
-Potwierdzone zakazenia:  23571
-Zgony:  1061
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  416
-Zgony dziennie:  10
-
---------------
-
---------------
-
-Numer zgloszenia:  89
-Data zgloszenia:  2020-05-31 17:40:33
-Potwierdzone zakazenia:  23786
-Zgony:  1064
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  215
-Zgony dziennie:  3
-
---------------
-
---------------
-
-Numer zgloszenia:  90
-Data zgloszenia:  2020-06-01 17:40:33
-Potwierdzone zakazenia:  24165
-Zgony:  1074
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  379
-Zgony dziennie:  10
-
---------------
-
---------------
-
-Numer zgloszenia:  91
-Data zgloszenia:  2020-06-02 17:43:40
-Potwierdzone zakazenia:  24395
-Zgony:  1092
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  230
-Zgony dziennie:  18
-
---------------
-
---------------
-
-Numer zgloszenia:  92
-Data zgloszenia:  2020-06-03 17:43:34
-Potwierdzone zakazenia:  24687
-Zgony:  1115
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  292
-Zgony dziennie:  23
-
---------------
-
---------------
-
-Numer zgloszenia:  93
-Data zgloszenia:  2020-06-04 17:55:35
-Potwierdzone zakazenia:  25048
-Zgony:  1117
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  361
-Zgony dziennie:  2
-
---------------
-
---------------
-
-Numer zgloszenia:  94
-Data zgloszenia:  2020-06-05 18:01:33
-Potwierdzone zakazenia:  25419
-Zgony:  1137
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  371
-Zgony dziennie:  20
-
---------------
-
---------------
-
-Numer zgloszenia:  95
-Data zgloszenia:  2020-06-06 20:43:34
-Potwierdzone zakazenia:  25986
-Zgony:  1153
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  567
-Zgony dziennie:  16
-
---------------
-
---------------
-
-Numer zgloszenia:  96
-Data zgloszenia:  2020-06-07 17:55:36
-Potwierdzone zakazenia:  26561
-Zgony:  1157
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  575
-Zgony dziennie:  4
-
---------------
-
---------------
-
-Numer zgloszenia:  97
-Data zgloszenia:  2020-06-08 18:16:34
-Potwierdzone zakazenia:  27160
-Zgony:  1166
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  599
-Zgony dziennie:  9
-
---------------
-
---------------
-
-Numer zgloszenia:  98
-Data zgloszenia:  2020-06-09 17:52:36
-Potwierdzone zakazenia:  27560
-Zgony:  1183
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  400
-Zgony dziennie:  17
-
---------------
-
---------------
-
-Numer zgloszenia:  99
-Data zgloszenia:  2020-06-10 17:58:37
-Potwierdzone zakazenia:  27757
-Zgony:  1206
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  197
-Zgony dziennie:  23
-
---------------
-
---------------
-
-Numer zgloszenia:  100
-Data zgloszenia:  2020-06-11 12:43:00
-Potwierdzone zakazenia:  28201
-Zgony:  1215
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  444
-Zgony dziennie:  9
-
---------------
-
---------------
-
-Numer zgloszenia:  101
-Data zgloszenia:  2020-06-12 10:43:00
-Potwierdzone zakazenia:  28577
-Zgony:  1222
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  376
-Zgony dziennie:  7
-
---------------
-
---------------
-
-Numer zgloszenia:  102
-Data zgloszenia:  2020-06-13 10:05:21
-Potwierdzone zakazenia:  29017
-Zgony:  1237
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  440
-Zgony dziennie:  15
-
---------------
-
---------------
-
-Numer zgloszenia:  103
-Data zgloszenia:  2020-06-14 10:35:21
-Potwierdzone zakazenia:  29392
-Zgony:  1247
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  375
-Zgony dziennie:  10
-
---------------
-
---------------
-
-Numer zgloszenia:  104
-Data zgloszenia:  2020-06-15 10:00:00
-Potwierdzone zakazenia:  29788
-Zgony:  1256
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  396
-Zgony dziennie:  9
-
---------------
-
---------------
-
-Numer zgloszenia:  105
-Data zgloszenia:  2020-06-16 12:28:31
-Potwierdzone zakazenia:  30195
-Zgony:  1272
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  407
-Zgony dziennie:  16
-
---------------
-
---------------
-
-Numer zgloszenia:  106
-Data zgloszenia:  2020-06-17 10:52:44
-Potwierdzone zakazenia:  30701
-Zgony:  1286
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  506
-Zgony dziennie:  14
-
---------------
-
---------------
-
-Numer zgloszenia:  107
-Data zgloszenia:  2020-06-18 11:37:37
-Potwierdzone zakazenia:  31015
-Zgony:  1316
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  314
-Zgony dziennie:  30
-
---------------
-
---------------
-
-Numer zgloszenia:  108
-Data zgloszenia:  2020-06-19 12:49:46
-Potwierdzone zakazenia:  31316
-Zgony:  1334
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  301
-Zgony dziennie:  18
-
---------------
-
---------------
-
-Numer zgloszenia:  109
-Data zgloszenia:  2020-06-20 10:49:36
-Potwierdzone zakazenia:  31620
-Zgony:  1346
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  304
-Zgony dziennie:  12
-
---------------
-
---------------
-
-Numer zgloszenia:  110
-Data zgloszenia:  2020-06-21 10:28:35
-Potwierdzone zakazenia:  31931
-Zgony:  1356
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  311
-Zgony dziennie:  10
-
---------------
-
---------------
-
-Numer zgloszenia:  111
-Data zgloszenia:  2020-06-22 11:01:38
-Potwierdzone zakazenia:  32227
-Zgony:  1359
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  296
-Zgony dziennie:  3
-
---------------
-
---------------
-
-Numer zgloszenia:  112
-Data zgloszenia:  2020-06-23 11:22:35
-Potwierdzone zakazenia:  32527
-Zgony:  1375
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  300
-Zgony dziennie:  16
-
---------------
-
---------------
-
-Numer zgloszenia:  113
-Data zgloszenia:  2020-06-24 12:16:37
-Potwierdzone zakazenia:  32821
-Zgony:  1396
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  294
-Zgony dziennie:  21
-
---------------
-
---------------
-
-Numer zgloszenia:  114
-Data zgloszenia:  2020-06-25 13:55:37
-Potwierdzone zakazenia:  33119
-Zgony:  1412
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  298
-Zgony dziennie:  16
-
---------------
-
---------------
-
-Numer zgloszenia:  115
-Data zgloszenia:  2020-06-26 10:43:37
-Potwierdzone zakazenia:  33395
-Zgony:  1429
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  276
-Zgony dziennie:  17
-
---------------
-
---------------
-
-Numer zgloszenia:  116
-Data zgloszenia:  2020-06-27 10:43:35
-Potwierdzone zakazenia:  33714
-Zgony:  1435
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  319
-Zgony dziennie:  6
-
---------------
-
---------------
-
-Numer zgloszenia:  117
-Data zgloszenia:  2020-06-28 10:31:36
-Potwierdzone zakazenia:  33907
-Zgony:  1438
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  193
-Zgony dziennie:  3
-
---------------
-
---------------
-
-Numer zgloszenia:  118
-Data zgloszenia:  2020-06-29 16:01:31
-Potwierdzone zakazenia:  34154
-Zgony:  1444
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  247
-Zgony dziennie:  6
-
---------------
-
---------------
-
-Numer zgloszenia:  119
-Data zgloszenia:  2020-06-30 10:58:38
-Potwierdzone zakazenia:  34393
-Zgony:  1463
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  239
-Zgony dziennie:  19
-
---------------
-
---------------
-
-Numer zgloszenia:  120
-Data zgloszenia:  2020-07-01 10:34:37
-Potwierdzone zakazenia:  34775
-Zgony:  1477
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  382
-Zgony dziennie:  14
-
---------------
-
---------------
-
-Numer zgloszenia:  121
-Data zgloszenia:  2020-07-02 10:34:37
-Potwierdzone zakazenia:  35146
-Zgony:  1492
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  371
-Zgony dziennie:  15
-
---------------
-
---------------
-
-Numer zgloszenia:  122
-Data zgloszenia:  2020-07-03 10:43:39
-Potwierdzone zakazenia:  35405
-Zgony:  1507
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  259
-Zgony dziennie:  15
-
---------------
-
---------------
-
-Numer zgloszenia:  123
-Data zgloszenia:  2020-07-04 10:52:35
-Potwierdzone zakazenia:  35719
-Zgony:  1512
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  314
-Zgony dziennie:  5
-
---------------
-
---------------
-
-Numer zgloszenia:  124
-Data zgloszenia:  2020-07-05 10:31:36
-Potwierdzone zakazenia:  35950
-Zgony:  1517
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  231
-Zgony dziennie:  5
-
---------------
-
---------------
-
-Numer zgloszenia:  125
-Data zgloszenia:  2020-07-06 10:49:43
-Potwierdzone zakazenia:  36155
-Zgony:  1521
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  205
-Zgony dziennie:  4
-
---------------
-
---------------
-
-Numer zgloszenia:  126
-Data zgloszenia:  2020-07-07 10:28:37
-Potwierdzone zakazenia:  36412
-Zgony:  1528
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  257
-Zgony dziennie:  7
-
---------------
-
---------------
-
-Numer zgloszenia:  127
-Data zgloszenia:  2020-07-08 11:04:41
-Potwierdzone zakazenia:  36689
-Zgony:  1542
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  277
-Zgony dziennie:  14
-
---------------
-
---------------
-
-Numer zgloszenia:  128
-Data zgloszenia:  2020-07-09 11:01:36
-Potwierdzone zakazenia:  36951
-Zgony:  1551
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  262
-Zgony dziennie:  9
-
---------------
-
---------------
-
-Numer zgloszenia:  129
-Data zgloszenia:  2020-07-10 10:34:35
-Potwierdzone zakazenia:  37216
-Zgony:  1562
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  265
-Zgony dziennie:  11
-
---------------
-
---------------
-
-Numer zgloszenia:  130
-Data zgloszenia:  2020-07-11 10:37:35
-Potwierdzone zakazenia:  37521
-Zgony:  1568
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  305
-Zgony dziennie:  6
-
---------------
-
---------------
-
-Numer zgloszenia:  131
-Data zgloszenia:  2020-07-12 10:46:37
-Potwierdzone zakazenia:  37891
-Zgony:  1571
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  370
-Zgony dziennie:  3
-
---------------
-
---------------
-
-Numer zgloszenia:  132
-Data zgloszenia:  2020-07-13 10:40:36
-Potwierdzone zakazenia:  38190
-Zgony:  1576
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  299
-Zgony dziennie:  5
-
---------------
-
---------------
-
-Numer zgloszenia:  133
-Data zgloszenia:  2020-07-14 10:55:36
-Potwierdzone zakazenia:  38457
-Zgony:  1588
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  267
-Zgony dziennie:  12
-
---------------
-
---------------
-
-Numer zgloszenia:  134
-Data zgloszenia:  2020-07-15 10:13:36
-Potwierdzone zakazenia:  38721
-Zgony:  1594
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  264
-Zgony dziennie:  6
-
---------------
-
---------------
-
-Numer zgloszenia:  135
-Data zgloszenia:  2020-07-16 11:13:36
-Potwierdzone zakazenia:  39054
-Zgony:  1605
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  333
-Zgony dziennie:  11
-
---------------
-
---------------
-
-Numer zgloszenia:  136
-Data zgloszenia:  2020-07-17 11:10:38
-Potwierdzone zakazenia:  39407
-Zgony:  1612
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  353
-Zgony dziennie:  7
-
---------------
-
---------------
-
-Numer zgloszenia:  137
-Data zgloszenia:  2020-07-18 10:52:36
-Potwierdzone zakazenia:  39746
-Zgony:  1618
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  339
-Zgony dziennie:  6
-
---------------
-
---------------
-
-Numer zgloszenia:  138
-Data zgloszenia:  2020-07-19 10:31:36
-Potwierdzone zakazenia:  40104
-Zgony:  1624
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  358
-Zgony dziennie:  6
-
---------------
-
---------------
-
-Numer zgloszenia:  139
-Data zgloszenia:  2020-07-20 10:37:34
-Potwierdzone zakazenia:  40383
-Zgony:  1627
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  279
-Zgony dziennie:  3
-
---------------
-
---------------
-
-Numer zgloszenia:  140
-Data zgloszenia:  2020-07-21 10:40:35
-Potwierdzone zakazenia:  40782
-Zgony:  1636
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  399
-Zgony dziennie:  9
-
---------------
-
---------------
-
-Numer zgloszenia:  141
-Data zgloszenia:  2020-07-22 10:34:36
-Potwierdzone zakazenia:  41162
-Zgony:  1642
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  380
-Zgony dziennie:  6
-
---------------
-
---------------
-
-Numer zgloszenia:  142
-Data zgloszenia:  2020-07-23 10:37:36
-Potwierdzone zakazenia:  41580
-Zgony:  1651
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  418
-Zgony dziennie:  9
-
---------------
-
---------------
-
-Numer zgloszenia:  143
-Data zgloszenia:  2020-07-24 10:49:39
-Potwierdzone zakazenia:  42038
-Zgony:  1655
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  458
-Zgony dziennie:  4
-
---------------
-
---------------
-
-Numer zgloszenia:  144
-Data zgloszenia:  2020-07-25 11:07:39
-Potwierdzone zakazenia:  42622
-Zgony:  1664
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  584
-Zgony dziennie:  9
-
---------------
-
---------------
-
-Numer zgloszenia:  145
-Data zgloszenia:  2020-07-26 11:13:39
-Potwierdzone zakazenia:  43065
-Zgony:  1671
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  443
-Zgony dziennie:  7
-
---------------
-
---------------
-
-Numer zgloszenia:  146
-Data zgloszenia:  2020-07-27 10:22:36
-Potwierdzone zakazenia:  43402
-Zgony:  1676
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  337
-Zgony dziennie:  5
-
---------------
-
---------------
-
-Numer zgloszenia:  147
-Data zgloszenia:  2020-07-28 10:10:37
-Potwierdzone zakazenia:  43904
-Zgony:  1682
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  502
-Zgony dziennie:  6
-
---------------
-
---------------
-
-Numer zgloszenia:  148
-Data zgloszenia:  2020-07-29 10:10:38
-Potwierdzone zakazenia:  44416
-Zgony:  1694
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  512
-Zgony dziennie:  12
-
---------------
-
---------------
-
-Numer zgloszenia:  149
-Data zgloszenia:  2020-07-30 11:37:36
-Potwierdzone zakazenia:  45031
-Zgony:  1709
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  615
-Zgony dziennie:  15
-
---------------
-
---------------
-
-Numer zgloszenia:  150
-Data zgloszenia:  2020-07-31 15:40:31
-Potwierdzone zakazenia:  45688
-Zgony:  1716
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  657
-Zgony dziennie:  7
-
---------------
-
---------------
-
-Numer zgloszenia:  151
-Data zgloszenia:  2020-08-01 11:30:37
-Potwierdzone zakazenia:  46346
-Zgony:  1721
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  658
-Zgony dziennie:  5
-
---------------
-
---------------
-
-Numer zgloszenia:  152
-Data zgloszenia:  2020-08-02 11:49:38
-Potwierdzone zakazenia:  46894
-Zgony:  1731
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  548
-Zgony dziennie:  10
-
---------------
-
---------------
-
-Numer zgloszenia:  153
-Data zgloszenia:  2020-08-03 11:07:37
-Potwierdzone zakazenia:  47469
-Zgony:  1732
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  575
-Zgony dziennie:  1
-
---------------
-
---------------
-
-Numer zgloszenia:  154
-Data zgloszenia:  2020-08-04 10:49:38
-Potwierdzone zakazenia:  48149
-Zgony:  1738
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  680
-Zgony dziennie:  6
-
---------------
-
---------------
-
-Numer zgloszenia:  155
-Data zgloszenia:  2020-08-05 11:07:42
-Potwierdzone zakazenia:  48789
-Zgony:  1756
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  640
-Zgony dziennie:  18
-
---------------
-
---------------
-
-Numer zgloszenia:  156
-Data zgloszenia:  2020-08-06 10:40:45
-Potwierdzone zakazenia:  49515
-Zgony:  1774
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  726
-Zgony dziennie:  18
-
---------------
-
---------------
-
-Numer zgloszenia:  157
-Data zgloszenia:  2020-08-07 10:37:37
-Potwierdzone zakazenia:  50324
-Zgony:  1787
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  809
-Zgony dziennie:  13
-
---------------
-
---------------
-
-Numer zgloszenia:  158
-Data zgloszenia:  2020-08-08 10:43:36
-Potwierdzone zakazenia:  51167
-Zgony:  1800
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  843
-Zgony dziennie:  13
-
---------------
-
---------------
-
-Numer zgloszenia:  159
-Data zgloszenia:  2020-08-09 10:25:35
-Potwierdzone zakazenia:  51791
-Zgony:  1807
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  624
-Zgony dziennie:  7
-
---------------
-
---------------
-
-Numer zgloszenia:  160
-Data zgloszenia:  2020-08-10 11:13:37
-Potwierdzone zakazenia:  52410
-Zgony:  1809
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  619
-Zgony dziennie:  2
-
---------------
-
---------------
-
-Numer zgloszenia:  161
-Data zgloszenia:  2020-08-11 10:37:37
-Potwierdzone zakazenia:  52961
-Zgony:  1821
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  551
-Zgony dziennie:  12
-
---------------
-
---------------
-
-Numer zgloszenia:  162
-Data zgloszenia:  2020-08-12 11:13:37
-Potwierdzone zakazenia:  53676
-Zgony:  1830
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  715
-Zgony dziennie:  9
-
---------------
-
---------------
-
-Numer zgloszenia:  163
-Data zgloszenia:  2020-08-13 11:04:35
-Potwierdzone zakazenia:  54487
-Zgony:  1844
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  811
-Zgony dziennie:  14
-
---------------
-
---------------
-
-Numer zgloszenia:  164
-Data zgloszenia:  2020-08-14 15:22:32
-Potwierdzone zakazenia:  55319
-Zgony:  1858
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  832
-Zgony dziennie:  14
-
---------------
-
---------------
-
-Numer zgloszenia:  165
-Data zgloszenia:  2020-08-15 10:46:36
-Potwierdzone zakazenia:  56090
-Zgony:  1869
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  771
-Zgony dziennie:  11
-
---------------
-
---------------
-
-Numer zgloszenia:  166
-Data zgloszenia:  2020-08-16 11:01:36
-Potwierdzone zakazenia:  56684
-Zgony:  1877
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  594
-Zgony dziennie:  8
-
---------------
-
---------------
-
-Numer zgloszenia:  167
-Data zgloszenia:  2020-08-17 10:37:37
-Potwierdzone zakazenia:  57279
-Zgony:  1885
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  595
-Zgony dziennie:  8
-
---------------
-
---------------
-
-Numer zgloszenia:  168
-Data zgloszenia:  2020-08-18 10:52:35
-Potwierdzone zakazenia:  57876
-Zgony:  1896
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  597
-Zgony dziennie:  11
-
---------------
-
---------------
-
-Numer zgloszenia:  169
-Data zgloszenia:  2020-08-19 12:01:38
-Potwierdzone zakazenia:  58611
-Zgony:  1913
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  735
-Zgony dziennie:  17
-
---------------
-
---------------
-
-Numer zgloszenia:  170
-Data zgloszenia:  2020-08-20 10:55:35
-Potwierdzone zakazenia:  59378
-Zgony:  1925
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  767
-Zgony dziennie:  12
-
---------------
-
---------------
-
-Numer zgloszenia:  171
-Data zgloszenia:  2020-08-21 10:43:36
-Potwierdzone zakazenia:  60281
-Zgony:  1938
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  903
-Zgony dziennie:  13
-
---------------
-
---------------
-
-Numer zgloszenia:  172
-Data zgloszenia:  2020-08-22 11:04:36
-Potwierdzone zakazenia:  61181
-Zgony:  1951
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  900
-Zgony dziennie:  13
-
---------------
-
---------------
-
-Numer zgloszenia:  173
-Data zgloszenia:  2020-08-23 15:40:36
-Potwierdzone zakazenia:  61762
-Zgony:  1955
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  581
-Zgony dziennie:  4
-
---------------
-
---------------
-
-Numer zgloszenia:  174
-Data zgloszenia:  2020-08-24 10:10:37
-Potwierdzone zakazenia:  62310
-Zgony:  1960
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  548
-Zgony dziennie:  5
-
---------------
-
---------------
-
-Numer zgloszenia:  175
-Data zgloszenia:  2020-08-25 10:31:37
-Potwierdzone zakazenia:  63073
-Zgony:  1977
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  763
-Zgony dziennie:  17
-
---------------
-
---------------
-
-Numer zgloszenia:  176
-Data zgloszenia:  2020-08-26 10:37:35
-Potwierdzone zakazenia:  63802
-Zgony:  1994
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  729
-Zgony dziennie:  17
-
---------------
-
---------------
-
-Numer zgloszenia:  177
-Data zgloszenia:  2020-08-27 10:46:39
-Potwierdzone zakazenia:  64689
-Zgony:  2010
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  887
-Zgony dziennie:  16
-
---------------
-
---------------
-
-Numer zgloszenia:  178
-Data zgloszenia:  2020-08-28 11:01:43
-Potwierdzone zakazenia:  65480
-Zgony:  2018
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  791
-Zgony dziennie:  8
-
---------------
-
---------------
-
-Numer zgloszenia:  179
-Data zgloszenia:  2020-08-29 10:46:37
-Potwierdzone zakazenia:  66239
-Zgony:  2032
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  759
-Zgony dziennie:  14
-
---------------
-
---------------
-
-Numer zgloszenia:  180
-Data zgloszenia:  2020-08-30 10:28:37
-Potwierdzone zakazenia:  66870
-Zgony:  2033
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  631
-Zgony dziennie:  1
-
---------------
-
---------------
-
-Numer zgloszenia:  181
-Data zgloszenia:  2020-08-31 10:13:38
-Potwierdzone zakazenia:  67372
-Zgony:  2039
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  502
-Zgony dziennie:  6
-
---------------
-
---------------
-
-Numer zgloszenia:  182
-Data zgloszenia:  2020-09-01 10:40:39
-Potwierdzone zakazenia:  67922
-Zgony:  2058
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  550
-Zgony dziennie:  19
-
---------------
-
---------------
-
-Numer zgloszenia:  183
-Data zgloszenia:  2020-09-02 13:13:37
-Potwierdzone zakazenia:  68517
-Zgony:  2078
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  595
-Zgony dziennie:  20
-
---------------
-
---------------
-
-Numer zgloszenia:  184
-Data zgloszenia:  2020-09-03 10:22:36
-Potwierdzone zakazenia:  69129
-Zgony:  2092
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  612
-Zgony dziennie:  14
-
---------------
-
---------------
-
-Numer zgloszenia:  185
-Data zgloszenia:  2020-09-04 11:12:04
-Potwierdzone zakazenia:  69820
-Zgony:  2100
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  691
-Zgony dziennie:  8
-
---------------
-
---------------
-
-Numer zgloszenia:  186
-Data zgloszenia:  2020-09-05 11:21:10
-Potwierdzone zakazenia:  70387
-Zgony:  2113
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  567
-Zgony dziennie:  13
-
---------------
-
---------------
-
-Numer zgloszenia:  187
-Data zgloszenia:  2020-09-06 10:28:37
-Potwierdzone zakazenia:  70824
-Zgony:  2120
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  437
-Zgony dziennie:  7
-
---------------
-
---------------
-
-Numer zgloszenia:  188
-Data zgloszenia:  2020-09-07 10:31:36
-Potwierdzone zakazenia:  71126
-Zgony:  2124
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  302
-Zgony dziennie:  4
-
---------------
-
---------------
-
-Numer zgloszenia:  189
-Data zgloszenia:  2020-09-08 11:16:34
-Potwierdzone zakazenia:  71526
-Zgony:  2136
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  400
-Zgony dziennie:  12
-
---------------
-
---------------
-
-Numer zgloszenia:  190
-Data zgloszenia:  2020-09-09 10:25:36
-Potwierdzone zakazenia:  71947
-Zgony:  2147
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  421
-Zgony dziennie:  11
-
---------------
-
---------------
-
-Numer zgloszenia:  191
-Data zgloszenia:  2020-09-10 10:52:36
-Potwierdzone zakazenia:  72453
-Zgony:  2159
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  506
-Zgony dziennie:  12
-
---------------
-
---------------
-
-Numer zgloszenia:  192
-Data zgloszenia:  2020-09-11 10:43:35
-Potwierdzone zakazenia:  73047
-Zgony:  2169
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  594
-Zgony dziennie:  10
-
---------------
-
---------------
-
-Numer zgloszenia:  193
-Data zgloszenia:  2020-09-12 10:22:39
-Potwierdzone zakazenia:  73650
-Zgony:  2182
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  603
-Zgony dziennie:  13
-
---------------
-
---------------
-
-Numer zgloszenia:  194
-Data zgloszenia:  2020-09-13 10:22:35
-Potwierdzone zakazenia:  74152
-Zgony:  2188
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  502
-Zgony dziennie:  6
-
---------------
-
---------------
-
-Numer zgloszenia:  195
-Data zgloszenia:  2020-09-14 10:28:36
-Potwierdzone zakazenia:  74529
-Zgony:  2203
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  377
-Zgony dziennie:  15
-
---------------
-
---------------
-
-Numer zgloszenia:  196
-Data zgloszenia:  2020-09-15 10:31:37
-Potwierdzone zakazenia:  75134
-Zgony:  2227
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  605
-Zgony dziennie:  24
-
---------------
-
---------------
-
-Numer zgloszenia:  197
-Data zgloszenia:  2020-09-16 10:22:00
-Potwierdzone zakazenia:  75734
-Zgony:  2237
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  600
-Zgony dziennie:  10
-
---------------
-
---------------
-
-Numer zgloszenia:  198
-Data zgloszenia:  2020-09-17 10:25:00
-Potwierdzone zakazenia:  76571
-Zgony:  2253
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  837
-Zgony dziennie:  16
-
---------------
-
---------------
-
-Numer zgloszenia:  199
-Data zgloszenia:  2020-09-18 10:30:36
-Potwierdzone zakazenia:  77328
-Zgony:  2270
-Wyleczonych:  162
-
-Przyrost dzienny zakazen:  757
-Zgony dziennie:  17
-
---------------
-
---------------
-
-Numer zgloszenia:  200
-Data zgloszenia:  2020-09-19 10:37:36
-Potwierdzone zakazenia:  78330
-Zgony:  2282
+Numer zgloszenia:  226
+Data zgloszenia:  2020-10-15 10:49:48  (  Czwartek  )
+Potwierdzone zakazenia:  149903
+Zgony:  3308
 Wyleczonych:  587
 
-Przyrost dzienny zakazen:  1002
-Zgony dziennie:  12
-
---------------
-
---------------
-
-Numer zgloszenia:  201
-Data zgloszenia:  2020-09-20 10:52:37
-Potwierdzone zakazenia:  79240
-Zgony:  2293
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  910
-Zgony dziennie:  11
-
---------------
-
---------------
-
-Numer zgloszenia:  202
-Data zgloszenia:  2020-09-21 10:19:38
-Potwierdzone zakazenia:  79988
-Zgony:  2298
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  748
-Zgony dziennie:  5
-
---------------
-
---------------
-
-Numer zgloszenia:  203
-Data zgloszenia:  2020-09-22 10:34:38
-Potwierdzone zakazenia:  80699
-Zgony:  2316
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  711
-Zgony dziennie:  18
-
---------------
-
---------------
-
-Numer zgloszenia:  204
-Data zgloszenia:  2020-09-23 11:04:37
-Potwierdzone zakazenia:  81673
-Zgony:  2344
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  974
-Zgony dziennie:  28
-
---------------
-
---------------
-
-Numer zgloszenia:  205
-Data zgloszenia:  2020-09-24 11:13:36
-Potwierdzone zakazenia:  82809
-Zgony:  2369
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  1136
-Zgony dziennie:  25
-
---------------
-
---------------
-
-Numer zgloszenia:  206
-Data zgloszenia:  2020-09-25 10:34:36
-Potwierdzone zakazenia:  84396
-Zgony:  2392
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  1587
-Zgony dziennie:  23
-
---------------
-
---------------
-
-Numer zgloszenia:  207
-Data zgloszenia:  2020-09-26 10:52:40
-Potwierdzone zakazenia:  85980
-Zgony:  2424
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  1584
-Zgony dziennie:  32
-
---------------
-
---------------
-
-Numer zgloszenia:  208
-Data zgloszenia:  2020-09-27 11:04:35
-Potwierdzone zakazenia:  87330
-Zgony:  2432
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  1350
-Zgony dziennie:  8
-
---------------
-
---------------
-
-Numer zgloszenia:  209
-Data zgloszenia:  2020-09-28 10:34:35
-Potwierdzone zakazenia:  88636
-Zgony:  2447
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  1306
-Zgony dziennie:  15
-
---------------
-
---------------
-
-Numer zgloszenia:  210
-Data zgloszenia:  2020-09-29 10:58:37
-Potwierdzone zakazenia:  89962
-Zgony:  2483
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  1326
-Zgony dziennie:  36
-
---------------
-
---------------
-
-Numer zgloszenia:  211
-Data zgloszenia:  2020-09-30 10:43:35
-Potwierdzone zakazenia:  91514
-Zgony:  2513
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  1552
-Zgony dziennie:  30
-
---------------
-
---------------
-
-Numer zgloszenia:  212
-Data zgloszenia:  2020-10-01 11:34:36
-Potwierdzone zakazenia:  93481
-Zgony:  2543
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  1967
-Zgony dziennie:  30
-
---------------
-
---------------
-
-Numer zgloszenia:  213
-Data zgloszenia:  2020-10-02 10:25:37
-Potwierdzone zakazenia:  95773
-Zgony:  2570
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  2292
-Zgony dziennie:  27
-
---------------
-
---------------
-
-Numer zgloszenia:  214
-Data zgloszenia:  2020-10-03 10:23:51
-Potwierdzone zakazenia:  98140
-Zgony:  2604
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  2367
-Zgony dziennie:  34
-
---------------
-
---------------
-
-Numer zgloszenia:  215
-Data zgloszenia:  2020-10-04 10:28:37
-Potwierdzone zakazenia:  100074
-Zgony:  2630
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  1934
-Zgony dziennie:  26
-
---------------
-
---------------
-
-Numer zgloszenia:  216
-Data zgloszenia:  2020-10-05 10:31:39
-Potwierdzone zakazenia:  102080
-Zgony:  2659
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  2006
-Zgony dziennie:  29
-
---------------
-
---------------
-
-Numer zgloszenia:  217
-Data zgloszenia:  2020-10-06 11:40:40
-Potwierdzone zakazenia:  104316
-Zgony:  2717
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  2236
-Zgony dziennie:  58
-
---------------
-
---------------
-
-Numer zgloszenia:  218
-Data zgloszenia:  2020-10-07 11:34:40
-Potwierdzone zakazenia:  107319
-Zgony:  2792
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  3003
-Zgony dziennie:  75
-
---------------
-
---------------
-
-Numer zgloszenia:  219
-Data zgloszenia:  2020-10-08 12:07:40
-Potwierdzone zakazenia:  111599
-Zgony:  2867
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  4280
-Zgony dziennie:  75
-
---------------
-
---------------
-
-Numer zgloszenia:  220
-Data zgloszenia:  2020-10-09 11:22:40
-Potwierdzone zakazenia:  116338
-Zgony:  2919
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  4739
-Zgony dziennie:  52
-
---------------
-
---------------
-
-Numer zgloszenia:  221
-Data zgloszenia:  2020-10-10 10:43:37
-Potwierdzone zakazenia:  121638
-Zgony:  2972
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  5300
-Zgony dziennie:  53
-
---------------
-
---------------
-
-Numer zgloszenia:  222
-Data zgloszenia:  2020-10-11 12:19:38
-Potwierdzone zakazenia:  125816
-Zgony:  3004
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  4178
-Zgony dziennie:  32
-
---------------
-
---------------
-
-Numer zgloszenia:  223
-Data zgloszenia:  2020-10-12 11:07:40
-Potwierdzone zakazenia:  130210
-Zgony:  3039
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  4394
-Zgony dziennie:  35
-
---------------
-
---------------
-
-Numer zgloszenia:  224
-Data zgloszenia:  2020-10-13 11:16:53
-Potwierdzone zakazenia:  135278
-Zgony:  3101
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  5068
-Zgony dziennie:  62
-
---------------
-
---------------
-
-Numer zgloszenia:  225
-Data zgloszenia:  2020-10-14 10:37:38
-Potwierdzone zakazenia:  141804
-Zgony:  3217
-Wyleczonych:  587
-
-Przyrost dzienny zakazen:  6526
-Zgony dziennie:  116
+Przyrost dzienny zakazen:  8099
+Zgony dziennie:  91
 
 --------------
 

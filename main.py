@@ -44,6 +44,22 @@ def printProgressBar(iteration, total, prefix='', suffix='', decimals=1, length=
         print()
 
 
+# Kod do zamiany daty na dni tygodnia
+# Ciekawostka, tak sie robi metode switch w pythonie. Normalnie jej nie ma
+def week(i):
+    switcher = {
+        0: 'Niedziela',
+        1: 'Poniedzialek',
+        2: 'Wtorek',
+        3: 'Sroda',
+        4: 'Czwartek',
+        5: 'Piatek',
+        6: 'Sobota'
+    }
+
+    return switcher.get(i, "Unknown")
+
+
 # Główna część programu
 if __name__ == "__main__":
     counter = 0
@@ -54,6 +70,14 @@ if __name__ == "__main__":
           "/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects" \
           "&outFields=*&orderByFields=Aktualizacja%20asc&resultOffset=0&resultRecordCount=32000&resultType=standard" \
           "&cacheHint=true "
+
+    poniedzialek = []
+    wtorek = []
+    sroda = []
+    czwartek = []
+    piatek = []
+    sobota = []
+    niedziela = []
 
     # Dostanie JSON ze strony
     with urllib.request.urlopen(url) as worker:
@@ -68,6 +92,7 @@ if __name__ == "__main__":
         timestamp_json = str(json_code['features'][counter]['attributes']['Aktualizacja'])
         timestamp = int(timestamp_json[:-3])
         date = datetime.fromtimestamp(timestamp)
+        day_of_week = datetime.fromtimestamp(timestamp).strftime('%w')
         data_zgloszenia = date
 
         potwierdzone_zakazenia = json_code['features'][counter]['attributes']['Potwierdzone']
@@ -80,7 +105,7 @@ if __name__ == "__main__":
         print('--------------', file=save)
         print('', file=save)
         print('Numer zgloszenia: ', numer_zgloszenia, file=save)
-        print('Data zgloszenia: ', data_zgloszenia, file=save)
+        print('Data zgloszenia: ', data_zgloszenia, ' ( ', week(int(day_of_week)), ' )', file=save)
         print('Potwierdzone zakazenia: ', potwierdzone_zakazenia, file=save)
         print('Zgony: ', zgony, file=save)
         print('Wyleczonych: ', wyleczonych, file=save)
@@ -95,7 +120,7 @@ if __name__ == "__main__":
         print('--------------')
         print('')
         print('Numer zgloszenia: ', numer_zgloszenia)
-        print('Data zgloszenia: ', data_zgloszenia)
+        print('Data zgloszenia: ', data_zgloszenia, ' ( ', week(int(day_of_week)), ' )')
         print('Potwierdzone zakazenia: ', potwierdzone_zakazenia)
         print('Zgony: ', zgony)
         print('Wyleczonych: ', wyleczonych)
