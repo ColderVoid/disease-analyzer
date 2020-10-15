@@ -64,8 +64,8 @@ def week(i):
 if __name__ == "__main__":
     counter = 0
 
-    # Aktualnie open jest w trybie dodawania kolejnych lini aby to zmienić zmien 'a' na 'w'
-    save = open('output2.txt', 'a')
+    # Aktualnie open jest w trybie ///dodawania kolejnych lini/// aby to zmienić zmien 'a' na 'w'
+    save = open('output2.txt', 'w')
     url = "https://services1.arcgis.com/YmCK8KfESHdxUQgm/arcgis/rest/services/KoronawirusPolska_czas_widok" \
           "/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects" \
           "&outFields=*&orderByFields=Aktualizacja%20asc&resultOffset=0&resultRecordCount=32000&resultType=standard" \
@@ -82,7 +82,7 @@ if __name__ == "__main__":
     # Dostanie JSON ze strony
     with urllib.request.urlopen(url) as worker:
         worker = worker.read()
-        # I'm guessing this would output the html source code ?
+        # Kod zrodlowy API
         json_code = json.loads(worker)
 
     # Wypisanie interesujących danych z json
