@@ -14,6 +14,7 @@ And remember not to remove 'def printProgressBar'!
 """
 # import section
 from datetime import datetime
+from domath import calculate_spread_rate
 import time
 import sys
 import urllib
@@ -78,6 +79,7 @@ if __name__ == "__main__":
     piatek = []
     sobota = []
     niedziela = []
+    unknown_day = []
 
     # Dostanie JSON ze strony
     with urllib.request.urlopen(url) as worker:
@@ -133,5 +135,44 @@ if __name__ == "__main__":
 
         counter += 1
 
+        # Dodanie przyrostow dziennych do odpowiadajacych dni
+
+        if int(day_of_week) == 0:
+            niedziela.append(przyrost_dzienny)
+
+        elif int(day_of_week) == 1:
+            poniedzialek.append(przyrost_dzienny)
+
+        elif int(day_of_week) == 2:
+            wtorek.append(przyrost_dzienny)
+
+        elif int(day_of_week) == 3:
+            sroda.append(przyrost_dzienny)
+
+        elif int(day_of_week) == 4:
+            czwartek.append(przyrost_dzienny)
+
+        elif int(day_of_week) == 5:
+            piatek.append(przyrost_dzienny)
+
+        elif int(day_of_week) == 6:
+            sobota.append(przyrost_dzienny)
+
+        else:
+            unknown_day.append(przyrost_dzienny)
+
     # Zamkniecie edycji pliku
     save.close()
+
+    # =-=-=- TEST -=-=-=-=
+    print('\nDane w zmiennych: ')
+    print('Niedziela: ', niedziela)
+    print('Poniedzialek: ', poniedzialek)
+    print('Wtorek: ', wtorek)
+    print('Sroda: ', sroda)
+    print('Czwartek: ', czwartek)
+    print('Piatek: ', piatek)
+    print('Sobota: ', sobota)
+    print('Unknown: ', unknown_day)
+
+    print(calculate_spread_rate(niedziela, poniedzialek, wtorek, sroda, czwartek, piatek, sobota))
